@@ -14,7 +14,8 @@ for path in paths:
     merged['features'].extend(d['features'])
 
 for feature in merged['features']:
-    feature['properties']['sym'] = re.sub(r'[^\w]', '', feature['properties']['sym'])
+    feature['properties']['sym'] = re.sub(
+        r'[^\w]', '', feature['properties']['sym'])
 
 print('The set of features needed to color are:')
 set([x['properties']['sym'] for x in merged['features']])
@@ -32,6 +33,11 @@ for path in paths:
         d = json.load(f)
 
     merged['features'].extend(d['features'])
+
+for feature in merged['features']:
+    main_trail = re.search(
+        r'^(CA|OR|WA) Sec [A-Z]$', feature['properties']['name'])
+    feature['properties']['main_trail'] = bool(main_trail)
 
 with open('../data/final_tracks.geojson', 'w') as f:
     json.dump(merged, f)
