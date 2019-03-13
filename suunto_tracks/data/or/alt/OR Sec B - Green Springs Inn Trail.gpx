@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec B - Green Springs Inn Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.127704" lon="-122.481136">
+        <ele>1382.3</ele>
+      </trkpt>
+      <trkpt lat="42.127781" lon="-122.481051">
+        <ele>1380.46</ele>
+      </trkpt>
+      <trkpt lat="42.128294" lon="-122.481051">
+        <ele>1373.59</ele>
+      </trkpt>
+      <trkpt lat="42.128577" lon="-122.48092">
+        <ele>1370.48</ele>
+      </trkpt>
+      <trkpt lat="42.128744" lon="-122.480949">
+        <ele>1368.26</ele>
+      </trkpt>
+      <trkpt lat="42.129164" lon="-122.481315">
+        <ele>1373.44</ele>
+      </trkpt>
+      <trkpt lat="42.129252" lon="-122.481285">
+        <ele>1373.25</ele>
+      </trkpt>
+      <trkpt lat="42.129342" lon="-122.481052">
+        <ele>1369.22</ele>
+      </trkpt>
+      <trkpt lat="42.129386" lon="-122.480021">
+        <ele>1350.43</ele>
+      </trkpt>
+      <trkpt lat="42.129162" lon="-122.477679">
+        <ele>1348.58</ele>
+      </trkpt>
+      <trkpt lat="42.127752" lon="-122.477217">
+        <ele>1354.53</ele>
+      </trkpt>
+      <trkpt lat="42.127554" lon="-122.477099">
+        <ele>1350.14</ele>
+      </trkpt>
+      <trkpt lat="42.126928" lon="-122.476397">
+        <ele>1344.91</ele>
+      </trkpt>
+      <trkpt lat="42.125259" lon="-122.472609">
+        <ele>1345.55</ele>
+      </trkpt>
+      <trkpt lat="42.124706" lon="-122.471606">
+        <ele>1348.55</ele>
+      </trkpt>
+      <trkpt lat="42.124722" lon="-122.471014">
+        <ele>1348.17</ele>
+      </trkpt>
+      <trkpt lat="42.124961" lon="-122.470183">
+        <ele>1347.03</ele>
+      </trkpt>
+      <trkpt lat="42.125031" lon="-122.469598">
+        <ele>1347.09</ele>
+      </trkpt>
+      <trkpt lat="42.124899" lon="-122.469458">
+        <ele>1348.62</ele>
+      </trkpt>
+      <trkpt lat="42.124111" lon="-122.469406">
+        <ele>1350.26</ele>
+      </trkpt>
+      <trkpt lat="42.123202" lon="-122.46974">
+        <ele>1347.02</ele>
+      </trkpt>
+      <trkpt lat="42.122813" lon="-122.469679">
+        <ele>1350.61</ele>
+      </trkpt>
+      <trkpt lat="42.122286" lon="-122.47029">
+        <ele>1350.7</ele>
+      </trkpt>
+      <trkpt lat="42.121934" lon="-122.470916">
+        <ele>1347.5</ele>
+      </trkpt>
+      <trkpt lat="42.121803" lon="-122.471022">
+        <ele>1346.14</ele>
+      </trkpt>
+      <trkpt lat="42.12091" lon="-122.470484">
+        <ele>1348.68</ele>
+      </trkpt>
+      <trkpt lat="42.120171" lon="-122.470203">
+        <ele>1349.76</ele>
+      </trkpt>
+      <trkpt lat="42.119597" lon="-122.470107">
+        <ele>1346.78</ele>
+      </trkpt>
+      <trkpt lat="42.119277" lon="-122.469458">
+        <ele>1347.21</ele>
+      </trkpt>
+      <trkpt lat="42.11915" lon="-122.468527">
+        <ele>1344.66</ele>
+      </trkpt>
+      <trkpt lat="42.119309" lon="-122.467662">
+        <ele>1345.8</ele>
+      </trkpt>
+      <trkpt lat="42.119563" lon="-122.46719">
+        <ele>1347.18</ele>
+      </trkpt>
+      <trkpt lat="42.119703" lon="-122.466686">
+        <ele>1346.89</ele>
+      </trkpt>
+      <trkpt lat="42.119486" lon="-122.464667">
+        <ele>1347.62</ele>
+      </trkpt>
+      <trkpt lat="42.119493" lon="-122.464163">
+        <ele>1347.21</ele>
+      </trkpt>
+      <trkpt lat="42.122483" lon="-122.464312">
+        <ele>1379.35</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

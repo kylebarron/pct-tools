@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec H - Whitney Spur Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="36.552496" lon="-118.358631">
+        <ele>3150.08</ele>
+      </trkpt>
+      <trkpt lat="36.552823" lon="-118.358287">
+        <ele>3153.54</ele>
+      </trkpt>
+      <trkpt lat="36.554119" lon="-118.357546">
+        <ele>3159.42</ele>
+      </trkpt>
+      <trkpt lat="36.554671" lon="-118.357493">
+        <ele>3161.33</ele>
+      </trkpt>
+      <trkpt lat="36.554964" lon="-118.357672">
+        <ele>3165.4</ele>
+      </trkpt>
+      <trkpt lat="36.555118" lon="-118.357673">
+        <ele>3166.44</ele>
+      </trkpt>
+      <trkpt lat="36.555651" lon="-118.357358">
+        <ele>3171.43</ele>
+      </trkpt>
+      <trkpt lat="36.555729" lon="-118.357085">
+        <ele>3169.61</ele>
+      </trkpt>
+      <trkpt lat="36.556047" lon="-118.356676">
+        <ele>3173.17</ele>
+      </trkpt>
+      <trkpt lat="36.5566" lon="-118.355588">
+        <ele>3174.61</ele>
+      </trkpt>
+      <trkpt lat="36.556849" lon="-118.355281">
+        <ele>3175.74</ele>
+      </trkpt>
+      <trkpt lat="36.557243" lon="-118.354984">
+        <ele>3179.17</ele>
+      </trkpt>
+      <trkpt lat="36.557526" lon="-118.354502">
+        <ele>3179.48</ele>
+      </trkpt>
+      <trkpt lat="36.557574" lon="-118.354339">
+        <ele>3179.32</ele>
+      </trkpt>
+      <trkpt lat="36.557531" lon="-118.353763">
+        <ele>3179.24</ele>
+      </trkpt>
+      <trkpt lat="36.557805" lon="-118.353044">
+        <ele>3185.54</ele>
+      </trkpt>
+      <trkpt lat="36.558" lon="-118.352761">
+        <ele>3188.51</ele>
+      </trkpt>
+      <trkpt lat="36.558297" lon="-118.352565">
+        <ele>3194.16</ele>
+      </trkpt>
+      <trkpt lat="36.558366" lon="-118.352187">
+        <ele>3194.92</ele>
+      </trkpt>
+      <trkpt lat="36.558593" lon="-118.351728">
+        <ele>3197.5</ele>
+      </trkpt>
+      <trkpt lat="36.559147" lon="-118.351218">
+        <ele>3199.94</ele>
+      </trkpt>
+      <trkpt lat="36.55953" lon="-118.351154">
+        <ele>3200.18</ele>
+      </trkpt>
+      <trkpt lat="36.560034" lon="-118.351521">
+        <ele>3208.02</ele>
+      </trkpt>
+      <trkpt lat="36.560322" lon="-118.351578">
+        <ele>3210.08</ele>
+      </trkpt>
+      <trkpt lat="36.560651" lon="-118.351339">
+        <ele>3210.87</ele>
+      </trkpt>
+      <trkpt lat="36.560903" lon="-118.351268">
+        <ele>3214.97</ele>
+      </trkpt>
+      <trkpt lat="36.561605" lon="-118.351455">
+        <ele>3219.64</ele>
+      </trkpt>
+      <trkpt lat="36.561999" lon="-118.351292">
+        <ele>3219.36</ele>
+      </trkpt>
+      <trkpt lat="36.562658" lon="-118.351398">
+        <ele>3225.02</ele>
+      </trkpt>
+      <trkpt lat="36.563153" lon="-118.350946">
+        <ele>3230.98</ele>
+      </trkpt>
+      <trkpt lat="36.563288" lon="-118.350358">
+        <ele>3238.61</ele>
+      </trkpt>
+      <trkpt lat="36.563591" lon="-118.349878">
+        <ele>3240.44</ele>
+      </trkpt>
+      <trkpt lat="36.563771" lon="-118.349724">
+        <ele>3240.85</ele>
+      </trkpt>
+      <trkpt lat="36.563807" lon="-118.34948">
+        <ele>3242.69</ele>
+      </trkpt>
+      <trkpt lat="36.563975" lon="-118.349337">
+        <ele>3243.21</ele>
+      </trkpt>
+      <trkpt lat="36.564209" lon="-118.34952">
+        <ele>3246.18</ele>
+      </trkpt>
+      <trkpt lat="36.564216" lon="-118.349648">
+        <ele>3247.1</ele>
+      </trkpt>
+      <trkpt lat="36.564383" lon="-118.349712">
+        <ele>3250.25</ele>
+      </trkpt>
+      <trkpt lat="36.564793" lon="-118.350349">
+        <ele>3263.64</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

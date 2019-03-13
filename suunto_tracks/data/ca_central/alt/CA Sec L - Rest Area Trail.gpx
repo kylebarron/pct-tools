@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec L - Rest Area Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="39.345212" lon="-120.338387">
+        <ele>2207.33</ele>
+      </trkpt>
+      <trkpt lat="39.34492" lon="-120.338791">
+        <ele>2214.43</ele>
+      </trkpt>
+      <trkpt lat="39.344718" lon="-120.338847">
+        <ele>2217.09</ele>
+      </trkpt>
+      <trkpt lat="39.344322" lon="-120.338561">
+        <ele>2221.91</ele>
+      </trkpt>
+      <trkpt lat="39.344284" lon="-120.338679">
+        <ele>2221.75</ele>
+      </trkpt>
+      <trkpt lat="39.344029" lon="-120.3389">
+        <ele>2218.92</ele>
+      </trkpt>
+      <trkpt lat="39.343879" lon="-120.33888">
+        <ele>2217.4</ele>
+      </trkpt>
+      <trkpt lat="39.343723" lon="-120.339143">
+        <ele>2215.45</ele>
+      </trkpt>
+      <trkpt lat="39.343585" lon="-120.33922">
+        <ele>2212.72</ele>
+      </trkpt>
+      <trkpt lat="39.343331" lon="-120.339802">
+        <ele>2207.2</ele>
+      </trkpt>
+      <trkpt lat="39.343108" lon="-120.339698">
+        <ele>2206.07</ele>
+      </trkpt>
+      <trkpt lat="39.342881" lon="-120.339739">
+        <ele>2206.06</ele>
+      </trkpt>
+      <trkpt lat="39.342694" lon="-120.340199">
+        <ele>2207.99</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

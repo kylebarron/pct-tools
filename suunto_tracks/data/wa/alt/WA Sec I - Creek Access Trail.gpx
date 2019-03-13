@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>WA Sec I - Creek Access Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="47.19905" lon="-121.311278">
+        <ele>1178.03</ele>
+      </trkpt>
+      <trkpt lat="47.198938" lon="-121.311873">
+        <ele>1168.29</ele>
+      </trkpt>
+      <trkpt lat="47.19882" lon="-121.312071">
+        <ele>1164.68</ele>
+      </trkpt>
+      <trkpt lat="47.198609" lon="-121.312873">
+        <ele>1152.76</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

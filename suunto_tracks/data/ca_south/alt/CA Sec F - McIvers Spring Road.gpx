@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec F - McIvers Spring Road</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="35.621233" lon="-118.077323">
+        <ele>2039.35</ele>
+      </trkpt>
+      <trkpt lat="35.62121" lon="-118.076951">
+        <ele>2038.28</ele>
+      </trkpt>
+      <trkpt lat="35.621416" lon="-118.07651">
+        <ele>2037.29</ele>
+      </trkpt>
+      <trkpt lat="35.621734" lon="-118.07612">
+        <ele>2036.11</ele>
+      </trkpt>
+      <trkpt lat="35.621741" lon="-118.075844">
+        <ele>2038.36</ele>
+      </trkpt>
+      <trkpt lat="35.62183" lon="-118.075692">
+        <ele>2041.8</ele>
+      </trkpt>
+      <trkpt lat="35.621666" lon="-118.07493">
+        <ele>2043.99</ele>
+      </trkpt>
+      <trkpt lat="35.621693" lon="-118.074472">
+        <ele>2043.69</ele>
+      </trkpt>
+      <trkpt lat="35.62185" lon="-118.074024">
+        <ele>2045.69</ele>
+      </trkpt>
+      <trkpt lat="35.621795" lon="-118.073674">
+        <ele>2041.14</ele>
+      </trkpt>
+      <trkpt lat="35.621959" lon="-118.073223">
+        <ele>2036.42</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec G - Timberline Lodge Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.332829" lon="-121.711225">
+        <ele>1840.94</ele>
+      </trkpt>
+      <trkpt lat="45.331382" lon="-121.7102">
+        <ele>1812.33</ele>
+      </trkpt>
+      <trkpt lat="45.331054" lon="-121.710287">
+        <ele>1807.98</ele>
+      </trkpt>
+      <trkpt lat="45.330791" lon="-121.710553">
+        <ele>1805.56</ele>
+      </trkpt>
+      <trkpt lat="45.330532" lon="-121.710562">
+        <ele>1805.52</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec D - Six Horse Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="43.304927" lon="-122.002548">
+        <ele>1893.79</ele>
+      </trkpt>
+      <trkpt lat="43.304992" lon="-122.002372">
+        <ele>1890.94</ele>
+      </trkpt>
+      <trkpt lat="43.305376" lon="-122.002242">
+        <ele>1886.77</ele>
+      </trkpt>
+      <trkpt lat="43.305593" lon="-122.002017">
+        <ele>1882.65</ele>
+      </trkpt>
+      <trkpt lat="43.304704" lon="-122.001717">
+        <ele>1868.17</ele>
+      </trkpt>
+      <trkpt lat="43.304365" lon="-122.001823">
+        <ele>1868.2</ele>
+      </trkpt>
+      <trkpt lat="43.30359" lon="-122.001793">
+        <ele>1855.14</ele>
+      </trkpt>
+      <trkpt lat="43.30363" lon="-122.001408">
+        <ele>1842.54</ele>
+      </trkpt>
+      <trkpt lat="43.304002" lon="-122.000931">
+        <ele>1834.49</ele>
+      </trkpt>
+      <trkpt lat="43.304697" lon="-122.000698">
+        <ele>1828.08</ele>
+      </trkpt>
+      <trkpt lat="43.304286" lon="-122.000317">
+        <ele>1815.68</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

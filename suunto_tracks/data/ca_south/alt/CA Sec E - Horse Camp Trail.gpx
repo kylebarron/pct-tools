@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec E - Horse Camp Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="34.731458" lon="-118.660521">
+        <ele>1480.39</ele>
+      </trkpt>
+      <trkpt lat="34.731704" lon="-118.660882">
+        <ele>1469.64</ele>
+      </trkpt>
+      <trkpt lat="34.731738" lon="-118.661096">
+        <ele>1463.41</ele>
+      </trkpt>
+      <trkpt lat="34.731423" lon="-118.661405">
+        <ele>1458.18</ele>
+      </trkpt>
+      <trkpt lat="34.731185" lon="-118.661375">
+        <ele>1464.14</ele>
+      </trkpt>
+      <trkpt lat="34.731181" lon="-118.661559">
+        <ele>1453.94</ele>
+      </trkpt>
+      <trkpt lat="34.73133" lon="-118.661787">
+        <ele>1439.04</ele>
+      </trkpt>
+      <trkpt lat="34.731035" lon="-118.661775">
+        <ele>1443.7</ele>
+      </trkpt>
+      <trkpt lat="34.730228" lon="-118.662205">
+        <ele>1432.12</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

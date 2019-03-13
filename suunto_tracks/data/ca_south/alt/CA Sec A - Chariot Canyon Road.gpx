@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec A - Chariot Canyon Road</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.013397" lon="-116.527265">
+        <ele>1176.25</ele>
+      </trkpt>
+      <trkpt lat="33.013713" lon="-116.527129">
+        <ele>1176.62</ele>
+      </trkpt>
+      <trkpt lat="33.014076" lon="-116.526666">
+        <ele>1170.08</ele>
+      </trkpt>
+      <trkpt lat="33.014304" lon="-116.526616">
+        <ele>1166.33</ele>
+      </trkpt>
+      <trkpt lat="33.014803" lon="-116.526757">
+        <ele>1161.98</ele>
+      </trkpt>
+      <trkpt lat="33.015157" lon="-116.527218">
+        <ele>1162.56</ele>
+      </trkpt>
+      <trkpt lat="33.015467" lon="-116.527119">
+        <ele>1157.08</ele>
+      </trkpt>
+      <trkpt lat="33.015681" lon="-116.52731">
+        <ele>1161.29</ele>
+      </trkpt>
+      <trkpt lat="33.016004" lon="-116.527376">
+        <ele>1157.78</ele>
+      </trkpt>
+      <trkpt lat="33.016162" lon="-116.527594">
+        <ele>1154.43</ele>
+      </trkpt>
+      <trkpt lat="33.016333" lon="-116.527355">
+        <ele>1148.97</ele>
+      </trkpt>
+      <trkpt lat="33.01646" lon="-116.527304">
+        <ele>1146.68</ele>
+      </trkpt>
+      <trkpt lat="33.017384" lon="-116.527659">
+        <ele>1143.19</ele>
+      </trkpt>
+      <trkpt lat="33.017679" lon="-116.527502">
+        <ele>1141.24</ele>
+      </trkpt>
+      <trkpt lat="33.018088" lon="-116.527457">
+        <ele>1139.2</ele>
+      </trkpt>
+      <trkpt lat="33.020039" lon="-116.527866">
+        <ele>1130.36</ele>
+      </trkpt>
+      <trkpt lat="33.020239" lon="-116.527817">
+        <ele>1130.63</ele>
+      </trkpt>
+      <trkpt lat="33.020445" lon="-116.527608">
+        <ele>1127.56</ele>
+      </trkpt>
+      <trkpt lat="33.020584" lon="-116.527599">
+        <ele>1127.4</ele>
+      </trkpt>
+      <trkpt lat="33.020691" lon="-116.527706">
+        <ele>1126.07</ele>
+      </trkpt>
+      <trkpt lat="33.020818" lon="-116.528098">
+        <ele>1125.44</ele>
+      </trkpt>
+      <trkpt lat="33.021263" lon="-116.528475">
+        <ele>1122.94</ele>
+      </trkpt>
+      <trkpt lat="33.021728" lon="-116.528578">
+        <ele>1120.08</ele>
+      </trkpt>
+      <trkpt lat="33.022627" lon="-116.529011">
+        <ele>1115.23</ele>
+      </trkpt>
+      <trkpt lat="33.022856" lon="-116.529202">
+        <ele>1116.3</ele>
+      </trkpt>
+      <trkpt lat="33.023061" lon="-116.529573">
+        <ele>1114.21</ele>
+      </trkpt>
+      <trkpt lat="33.023646" lon="-116.529939">
+        <ele>1112.25</ele>
+      </trkpt>
+      <trkpt lat="33.024063" lon="-116.530074">
+        <ele>1109.33</ele>
+      </trkpt>
+      <trkpt lat="33.024525" lon="-116.529955">
+        <ele>1109.3</ele>
+      </trkpt>
+      <trkpt lat="33.024837" lon="-116.53015">
+        <ele>1107.56</ele>
+      </trkpt>
+      <trkpt lat="33.025395" lon="-116.530295">
+        <ele>1105.44</ele>
+      </trkpt>
+      <trkpt lat="33.025606" lon="-116.530274">
+        <ele>1104.65</ele>
+      </trkpt>
+      <trkpt lat="33.025879" lon="-116.530069">
+        <ele>1104.97</ele>
+      </trkpt>
+      <trkpt lat="33.026375" lon="-116.53065">
+        <ele>1104.04</ele>
+      </trkpt>
+      <trkpt lat="33.02715" lon="-116.530745">
+        <ele>1105.83</ele>
+      </trkpt>
+      <trkpt lat="33.028223" lon="-116.531163">
+        <ele>1097.5</ele>
+      </trkpt>
+      <trkpt lat="33.02869" lon="-116.531788">
+        <ele>1093.73</ele>
+      </trkpt>
+      <trkpt lat="33.02951" lon="-116.532107">
+        <ele>1089.73</ele>
+      </trkpt>
+      <trkpt lat="33.030718" lon="-116.533042">
+        <ele>1082.32</ele>
+      </trkpt>
+      <trkpt lat="33.031175" lon="-116.533153">
+        <ele>1082.95</ele>
+      </trkpt>
+      <trkpt lat="33.031773" lon="-116.533656">
+        <ele>1080.92</ele>
+      </trkpt>
+      <trkpt lat="33.032417" lon="-116.533887">
+        <ele>1080.25</ele>
+      </trkpt>
+      <trkpt lat="33.033318" lon="-116.534687">
+        <ele>1075.03</ele>
+      </trkpt>
+      <trkpt lat="33.033615" lon="-116.535046">
+        <ele>1073.32</ele>
+      </trkpt>
+      <trkpt lat="33.034183" lon="-116.535415">
+        <ele>1078.28</ele>
+      </trkpt>
+      <trkpt lat="33.035001" lon="-116.535736">
+        <ele>1081.13</ele>
+      </trkpt>
+      <trkpt lat="33.035323" lon="-116.535981">
+        <ele>1075.4</ele>
+      </trkpt>
+      <trkpt lat="33.035777" lon="-116.536178">
+        <ele>1065.57</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

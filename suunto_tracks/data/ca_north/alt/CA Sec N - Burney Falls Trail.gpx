@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec N - Burney Falls Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="41.010811" lon="-121.653021">
+        <ele>896.01</ele>
+      </trkpt>
+      <trkpt lat="41.010804" lon="-121.65282">
+        <ele>893.55</ele>
+      </trkpt>
+      <trkpt lat="41.010979" lon="-121.652753">
+        <ele>891.51</ele>
+      </trkpt>
+      <trkpt lat="41.010788" lon="-121.652623">
+        <ele>890.34</ele>
+      </trkpt>
+      <trkpt lat="41.010874" lon="-121.652196">
+        <ele>881.34</ele>
+      </trkpt>
+      <trkpt lat="41.010782" lon="-121.652097">
+        <ele>884.3</ele>
+      </trkpt>
+      <trkpt lat="41.010973" lon="-121.652015">
+        <ele>889.93</ele>
+      </trkpt>
+      <trkpt lat="41.011022" lon="-121.651883">
+        <ele>892.61</ele>
+      </trkpt>
+      <trkpt lat="41.011792" lon="-121.651502">
+        <ele>866.14</ele>
+      </trkpt>
+      <trkpt lat="41.011763" lon="-121.651127">
+        <ele>884.66</ele>
+      </trkpt>
+      <trkpt lat="41.011815" lon="-121.65097">
+        <ele>882.52</ele>
+      </trkpt>
+      <trkpt lat="41.012304" lon="-121.650674">
+        <ele>891.39</ele>
+      </trkpt>
+      <trkpt lat="41.012346" lon="-121.650285">
+        <ele>893.15</ele>
+      </trkpt>
+      <trkpt lat="41.012648" lon="-121.650044">
+        <ele>894.15</ele>
+      </trkpt>
+      <trkpt lat="41.012985" lon="-121.649949">
+        <ele>894.47</ele>
+      </trkpt>
+      <trkpt lat="41.01316" lon="-121.649958">
+        <ele>894.64</ele>
+      </trkpt>
+      <trkpt lat="41.013528" lon="-121.650171">
+        <ele>894.47</ele>
+      </trkpt>
+      <trkpt lat="41.013741" lon="-121.649996">
+        <ele>894.93</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

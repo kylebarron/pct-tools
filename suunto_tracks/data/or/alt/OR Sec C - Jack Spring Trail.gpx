@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec C - Jack Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.736897" lon="-122.195762">
+        <ele>1891.85</ele>
+      </trkpt>
+      <trkpt lat="42.73711" lon="-122.196293">
+        <ele>1890.22</ele>
+      </trkpt>
+      <trkpt lat="42.737357" lon="-122.196622">
+        <ele>1890.78</ele>
+      </trkpt>
+      <trkpt lat="42.737233" lon="-122.196918">
+        <ele>1889.65</ele>
+      </trkpt>
+      <trkpt lat="42.737305" lon="-122.197196">
+        <ele>1889.86</ele>
+      </trkpt>
+      <trkpt lat="42.737161" lon="-122.197855">
+        <ele>1888.83</ele>
+      </trkpt>
+      <trkpt lat="42.737242" lon="-122.198354">
+        <ele>1884.3</ele>
+      </trkpt>
+      <trkpt lat="42.737148" lon="-122.198677">
+        <ele>1880.42</ele>
+      </trkpt>
+      <trkpt lat="42.737253" lon="-122.198801">
+        <ele>1878.15</ele>
+      </trkpt>
+      <trkpt lat="42.73735" lon="-122.198708">
+        <ele>1878.56</ele>
+      </trkpt>
+      <trkpt lat="42.737563" lon="-122.198746">
+        <ele>1875.18</ele>
+      </trkpt>
+      <trkpt lat="42.737805" lon="-122.198653">
+        <ele>1872.25</ele>
+      </trkpt>
+      <trkpt lat="42.738405" lon="-122.198933">
+        <ele>1856.47</ele>
+      </trkpt>
+      <trkpt lat="42.738458" lon="-122.199287">
+        <ele>1851.77</ele>
+      </trkpt>
+      <trkpt lat="42.738107" lon="-122.199844">
+        <ele>1848.21</ele>
+      </trkpt>
+      <trkpt lat="42.738281" lon="-122.200196">
+        <ele>1842.43</ele>
+      </trkpt>
+      <trkpt lat="42.738498" lon="-122.200355">
+        <ele>1840.39</ele>
+      </trkpt>
+      <trkpt lat="42.738586" lon="-122.200594">
+        <ele>1839.02</ele>
+      </trkpt>
+      <trkpt lat="42.738859" lon="-122.200776">
+        <ele>1835.71</ele>
+      </trkpt>
+      <trkpt lat="42.738955" lon="-122.200972">
+        <ele>1830.85</ele>
+      </trkpt>
+      <trkpt lat="42.739059" lon="-122.201407">
+        <ele>1827.93</ele>
+      </trkpt>
+      <trkpt lat="42.73917" lon="-122.201544">
+        <ele>1826.98</ele>
+      </trkpt>
+      <trkpt lat="42.739062" lon="-122.202054">
+        <ele>1824.11</ele>
+      </trkpt>
+      <trkpt lat="42.739281" lon="-122.202544">
+        <ele>1818.99</ele>
+      </trkpt>
+      <trkpt lat="42.739208" lon="-122.202853">
+        <ele>1817.94</ele>
+      </trkpt>
+      <trkpt lat="42.739535" lon="-122.203326">
+        <ele>1815.55</ele>
+      </trkpt>
+      <trkpt lat="42.739563" lon="-122.203608">
+        <ele>1815.35</ele>
+      </trkpt>
+      <trkpt lat="42.739904" lon="-122.204059">
+        <ele>1812.52</ele>
+      </trkpt>
+      <trkpt lat="42.739843" lon="-122.204189">
+        <ele>1813.09</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

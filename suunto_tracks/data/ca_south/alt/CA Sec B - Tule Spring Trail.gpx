@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Tule Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.460176" lon="-116.599939">
+        <ele>1103.09</ele>
+      </trkpt>
+      <trkpt lat="33.459993" lon="-116.599858">
+        <ele>1101.53</ele>
+      </trkpt>
+      <trkpt lat="33.459837" lon="-116.599654">
+        <ele>1100.05</ele>
+      </trkpt>
+      <trkpt lat="33.45934" lon="-116.599853">
+        <ele>1095.87</ele>
+      </trkpt>
+      <trkpt lat="33.459079" lon="-116.599752">
+        <ele>1086.76</ele>
+      </trkpt>
+      <trkpt lat="33.458962" lon="-116.599564">
+        <ele>1083.55</ele>
+      </trkpt>
+      <trkpt lat="33.458861" lon="-116.599226">
+        <ele>1080.22</ele>
+      </trkpt>
+      <trkpt lat="33.4589" lon="-116.598638">
+        <ele>1076.3</ele>
+      </trkpt>
+      <trkpt lat="33.459584" lon="-116.598083">
+        <ele>1068.94</ele>
+      </trkpt>
+      <trkpt lat="33.459496" lon="-116.597818">
+        <ele>1063.67</ele>
+      </trkpt>
+      <trkpt lat="33.458988" lon="-116.597481">
+        <ele>1059.17</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

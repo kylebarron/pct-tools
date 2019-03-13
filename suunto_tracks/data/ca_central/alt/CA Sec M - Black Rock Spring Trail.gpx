@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec M - Black Rock Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="39.768497" lon="-120.9895">
+        <ele>1670.3</ele>
+      </trkpt>
+      <trkpt lat="39.768529" lon="-120.989888">
+        <ele>1663.46</ele>
+      </trkpt>
+      <trkpt lat="39.768159" lon="-120.989854">
+        <ele>1665.72</ele>
+      </trkpt>
+      <trkpt lat="39.768043" lon="-120.989984">
+        <ele>1662.78</ele>
+      </trkpt>
+      <trkpt lat="39.767827" lon="-120.990021">
+        <ele>1661.69</ele>
+      </trkpt>
+      <trkpt lat="39.767694" lon="-120.990239">
+        <ele>1656.34</ele>
+      </trkpt>
+      <trkpt lat="39.767577" lon="-120.990322">
+        <ele>1652.5</ele>
+      </trkpt>
+      <trkpt lat="39.767461" lon="-120.990275">
+        <ele>1652.84</ele>
+      </trkpt>
+      <trkpt lat="39.767207" lon="-120.990568">
+        <ele>1644.79</ele>
+      </trkpt>
+      <trkpt lat="39.76695" lon="-120.990641">
+        <ele>1642.4</ele>
+      </trkpt>
+      <trkpt lat="39.766808" lon="-120.990579">
+        <ele>1642.04</ele>
+      </trkpt>
+      <trkpt lat="39.766643" lon="-120.990688">
+        <ele>1638.75</ele>
+      </trkpt>
+      <trkpt lat="39.766182" lon="-120.990633">
+        <ele>1633.22</ele>
+      </trkpt>
+      <trkpt lat="39.766076" lon="-120.990774">
+        <ele>1630.52</ele>
+      </trkpt>
+      <trkpt lat="39.76611" lon="-120.990914">
+        <ele>1630.4</ele>
+      </trkpt>
+      <trkpt lat="39.765883" lon="-120.991055">
+        <ele>1629.59</ele>
+      </trkpt>
+      <trkpt lat="39.765649" lon="-120.991044">
+        <ele>1627.88</ele>
+      </trkpt>
+      <trkpt lat="39.765565" lon="-120.990934">
+        <ele>1626.15</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec B - Brown Mtn Shelter Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.313304" lon="-122.262887">
+        <ele>1617.19</ele>
+      </trkpt>
+      <trkpt lat="42.313209" lon="-122.263271">
+        <ele>1619.29</ele>
+      </trkpt>
+      <trkpt lat="42.313573" lon="-122.264262">
+        <ele>1623.35</ele>
+      </trkpt>
+      <trkpt lat="42.31354" lon="-122.264537">
+        <ele>1625.66</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec A - Sunrise Trailhead Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="32.980348" lon="-116.522256">
+        <ele>1522.92</ele>
+      </trkpt>
+      <trkpt lat="32.980381" lon="-116.5224">
+        <ele>1522.79</ele>
+      </trkpt>
+      <trkpt lat="32.980308" lon="-116.522505">
+        <ele>1524.81</ele>
+      </trkpt>
+      <trkpt lat="32.980013" lon="-116.522553">
+        <ele>1527.84</ele>
+      </trkpt>
+      <trkpt lat="32.979915" lon="-116.522673">
+        <ele>1527.21</ele>
+      </trkpt>
+      <trkpt lat="32.979483" lon="-116.522699">
+        <ele>1529.89</ele>
+      </trkpt>
+      <trkpt lat="32.979224" lon="-116.522884">
+        <ele>1528.88</ele>
+      </trkpt>
+      <trkpt lat="32.979129" lon="-116.523022">
+        <ele>1527.23</ele>
+      </trkpt>
+      <trkpt lat="32.979104" lon="-116.523244">
+        <ele>1524.31</ele>
+      </trkpt>
+      <trkpt lat="32.979162" lon="-116.523694">
+        <ele>1520.65</ele>
+      </trkpt>
+      <trkpt lat="32.979053" lon="-116.523801">
+        <ele>1521.23</ele>
+      </trkpt>
+      <trkpt lat="32.978752" lon="-116.523843">
+        <ele>1523.46</ele>
+      </trkpt>
+      <trkpt lat="32.978699" lon="-116.523977">
+        <ele>1523.29</ele>
+      </trkpt>
+      <trkpt lat="32.978745" lon="-116.524328">
+        <ele>1521.59</ele>
+      </trkpt>
+      <trkpt lat="32.978639" lon="-116.524539">
+        <ele>1522.56</ele>
+      </trkpt>
+      <trkpt lat="32.978374" lon="-116.524621">
+        <ele>1525.1</ele>
+      </trkpt>
+      <trkpt lat="32.978001" lon="-116.525033">
+        <ele>1528.31</ele>
+      </trkpt>
+      <trkpt lat="32.977949" lon="-116.525376">
+        <ele>1527.8</ele>
+      </trkpt>
+      <trkpt lat="32.978008" lon="-116.526081">
+        <ele>1525.39</ele>
+      </trkpt>
+      <trkpt lat="32.977806" lon="-116.526613">
+        <ele>1523.06</ele>
+      </trkpt>
+      <trkpt lat="32.977881" lon="-116.526923">
+        <ele>1522.65</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

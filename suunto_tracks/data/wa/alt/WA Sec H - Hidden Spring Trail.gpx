@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>WA Sec H - Hidden Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="46.575512" lon="-121.398075">
+        <ele>1692.63</ele>
+      </trkpt>
+      <trkpt lat="46.575632" lon="-121.39725">
+        <ele>1686.98</ele>
+      </trkpt>
+      <trkpt lat="46.575907" lon="-121.396574">
+        <ele>1685.16</ele>
+      </trkpt>
+      <trkpt lat="46.576005" lon="-121.395251">
+        <ele>1669.86</ele>
+      </trkpt>
+      <trkpt lat="46.575818" lon="-121.395138">
+        <ele>1666.87</ele>
+      </trkpt>
+      <trkpt lat="46.57558" lon="-121.394536">
+        <ele>1658.63</ele>
+      </trkpt>
+      <trkpt lat="46.575178" lon="-121.394387">
+        <ele>1658.46</ele>
+      </trkpt>
+      <trkpt lat="46.574934" lon="-121.394114">
+        <ele>1655.87</ele>
+      </trkpt>
+      <trkpt lat="46.574965" lon="-121.394062">
+        <ele>1655.52</ele>
+      </trkpt>
+      <trkpt lat="46.5746" lon="-121.394087">
+        <ele>1656.23</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

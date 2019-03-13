@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>WA Sec H - Old Snowy Alternate</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="46.514327" lon="-121.460872">
+        <ele>2186.85</ele>
+      </trkpt>
+      <trkpt lat="46.514162" lon="-121.460782">
+        <ele>2193.57</ele>
+      </trkpt>
+      <trkpt lat="46.513851" lon="-121.460846">
+        <ele>2197.02</ele>
+      </trkpt>
+      <trkpt lat="46.513868" lon="-121.460444">
+        <ele>2210.17</ele>
+      </trkpt>
+      <trkpt lat="46.514053" lon="-121.460318">
+        <ele>2209.32</ele>
+      </trkpt>
+      <trkpt lat="46.514147" lon="-121.460005">
+        <ele>2211.81</ele>
+      </trkpt>
+      <trkpt lat="46.514125" lon="-121.459787">
+        <ele>2219.03</ele>
+      </trkpt>
+      <trkpt lat="46.513507" lon="-121.458939">
+        <ele>2238.99</ele>
+      </trkpt>
+      <trkpt lat="46.513419" lon="-121.458727">
+        <ele>2239.16</ele>
+      </trkpt>
+      <trkpt lat="46.513507" lon="-121.458592">
+        <ele>2244.93</ele>
+      </trkpt>
+      <trkpt lat="46.513248" lon="-121.458323">
+        <ele>2246.41</ele>
+      </trkpt>
+      <trkpt lat="46.513274" lon="-121.458161">
+        <ele>2254.78</ele>
+      </trkpt>
+      <trkpt lat="46.513191" lon="-121.457941">
+        <ele>2259.99</ele>
+      </trkpt>
+      <trkpt lat="46.513234" lon="-121.457823">
+        <ele>2264.43</ele>
+      </trkpt>
+      <trkpt lat="46.513689" lon="-121.457672">
+        <ele>2274.38</ele>
+      </trkpt>
+      <trkpt lat="46.514025" lon="-121.457731">
+        <ele>2282.87</ele>
+      </trkpt>
+      <trkpt lat="46.513974" lon="-121.45758">
+        <ele>2284.91</ele>
+      </trkpt>
+      <trkpt lat="46.514079" lon="-121.457262">
+        <ele>2298.77</ele>
+      </trkpt>
+      <trkpt lat="46.514025" lon="-121.45709">
+        <ele>2300.55</ele>
+      </trkpt>
+      <trkpt lat="46.514258" lon="-121.456876">
+        <ele>2314.39</ele>
+      </trkpt>
+      <trkpt lat="46.51413" lon="-121.456425">
+        <ele>2329.87</ele>
+      </trkpt>
+      <trkpt lat="46.514492" lon="-121.456372">
+        <ele>2327.49</ele>
+      </trkpt>
+      <trkpt lat="46.515633" lon="-121.455615">
+        <ele>2295.86</ele>
+      </trkpt>
+      <trkpt lat="46.515951" lon="-121.455579">
+        <ele>2288.3</ele>
+      </trkpt>
+      <trkpt lat="46.516062" lon="-121.455778">
+        <ele>2277.74</ele>
+      </trkpt>
+      <trkpt lat="46.516207" lon="-121.455724">
+        <ele>2274.57</ele>
+      </trkpt>
+      <trkpt lat="46.516904" lon="-121.455953">
+        <ele>2243.97</ele>
+      </trkpt>
+      <trkpt lat="46.51718" lon="-121.455898">
+        <ele>2235.47</ele>
+      </trkpt>
+      <trkpt lat="46.517206" lon="-121.456001">
+        <ele>2232.23</ele>
+      </trkpt>
+      <trkpt lat="46.518284" lon="-121.455163">
+        <ele>2186.66</ele>
+      </trkpt>
+      <trkpt lat="46.518301" lon="-121.455344">
+        <ele>2184.51</ele>
+      </trkpt>
+      <trkpt lat="46.518401" lon="-121.455361">
+        <ele>2176.26</ele>
+      </trkpt>
+      <trkpt lat="46.518771" lon="-121.455229">
+        <ele>2163.81</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

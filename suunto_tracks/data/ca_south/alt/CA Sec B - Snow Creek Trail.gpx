@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Snow Creek Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.855134" lon="-116.722676">
+        <ele>1948.43</ele>
+      </trkpt>
+      <trkpt lat="33.854779" lon="-116.72273">
+        <ele>1949.11</ele>
+      </trkpt>
+      <trkpt lat="33.854234" lon="-116.722447">
+        <ele>1948.35</ele>
+      </trkpt>
+      <trkpt lat="33.85369" lon="-116.722871">
+        <ele>1937.04</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

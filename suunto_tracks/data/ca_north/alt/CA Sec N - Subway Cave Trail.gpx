@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec N - Subway Cave Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="40.681048" lon="-121.418424">
+        <ele>1329.88</ele>
+      </trkpt>
+      <trkpt lat="40.681319" lon="-121.418568">
+        <ele>1329.8</ele>
+      </trkpt>
+      <trkpt lat="40.681555" lon="-121.418554">
+        <ele>1329.68</ele>
+      </trkpt>
+      <trkpt lat="40.682175" lon="-121.419162">
+        <ele>1328.38</ele>
+      </trkpt>
+      <trkpt lat="40.682417" lon="-121.419194">
+        <ele>1328.06</ele>
+      </trkpt>
+      <trkpt lat="40.682731" lon="-121.419419">
+        <ele>1327.37</ele>
+      </trkpt>
+      <trkpt lat="40.682977" lon="-121.419366">
+        <ele>1327.11</ele>
+      </trkpt>
+      <trkpt lat="40.683379" lon="-121.419523">
+        <ele>1326.87</ele>
+      </trkpt>
+      <trkpt lat="40.683577" lon="-121.419842">
+        <ele>1326.58</ele>
+      </trkpt>
+      <trkpt lat="40.683888" lon="-121.420055">
+        <ele>1326.49</ele>
+      </trkpt>
+      <trkpt lat="40.684074" lon="-121.420337">
+        <ele>1326.11</ele>
+      </trkpt>
+      <trkpt lat="40.684339" lon="-121.420223">
+        <ele>1326.27</ele>
+      </trkpt>
+      <trkpt lat="40.684757" lon="-121.42039">
+        <ele>1325.95</ele>
+      </trkpt>
+      <trkpt lat="40.684824" lon="-121.420119">
+        <ele>1326.63</ele>
+      </trkpt>
+      <trkpt lat="40.684782" lon="-121.419702">
+        <ele>1327.54</ele>
+      </trkpt>
+      <trkpt lat="40.685305" lon="-121.41929">
+        <ele>1328.8</ele>
+      </trkpt>
+      <trkpt lat="40.685749" lon="-121.419411">
+        <ele>1329.44</ele>
+      </trkpt>
+      <trkpt lat="40.686059" lon="-121.419023">
+        <ele>1327.79</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

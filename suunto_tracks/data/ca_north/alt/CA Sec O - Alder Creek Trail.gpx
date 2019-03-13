@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec O - Alder Creek Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="41.157899" lon="-121.920673">
+        <ele>1647.01</ele>
+      </trkpt>
+      <trkpt lat="41.158025" lon="-121.920604">
+        <ele>1645.18</ele>
+      </trkpt>
+      <trkpt lat="41.158366" lon="-121.920777">
+        <ele>1643.95</ele>
+      </trkpt>
+      <trkpt lat="41.158932" lon="-121.920532">
+        <ele>1640.14</ele>
+      </trkpt>
+      <trkpt lat="41.160166" lon="-121.920599">
+        <ele>1643.43</ele>
+      </trkpt>
+      <trkpt lat="41.161116" lon="-121.920361">
+        <ele>1645.71</ele>
+      </trkpt>
+      <trkpt lat="41.161519" lon="-121.920603">
+        <ele>1645.72</ele>
+      </trkpt>
+      <trkpt lat="41.161996" lon="-121.920716">
+        <ele>1648.07</ele>
+      </trkpt>
+      <trkpt lat="41.162355" lon="-121.921025">
+        <ele>1648.64</ele>
+      </trkpt>
+      <trkpt lat="41.162614" lon="-121.921129">
+        <ele>1648.29</ele>
+      </trkpt>
+      <trkpt lat="41.163655" lon="-121.921302">
+        <ele>1644.34</ele>
+      </trkpt>
+      <trkpt lat="41.163957" lon="-121.921037">
+        <ele>1644.33</ele>
+      </trkpt>
+      <trkpt lat="41.164211" lon="-121.920981">
+        <ele>1643.32</ele>
+      </trkpt>
+      <trkpt lat="41.164521" lon="-121.92065">
+        <ele>1644.36</ele>
+      </trkpt>
+      <trkpt lat="41.164578" lon="-121.9207">
+        <ele>1643.76</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec N - Old Station Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="40.647683" lon="-121.459376">
+        <ele>1398.75</ele>
+      </trkpt>
+      <trkpt lat="40.648131" lon="-121.459527">
+        <ele>1396.69</ele>
+      </trkpt>
+      <trkpt lat="40.648516" lon="-121.459474">
+        <ele>1395.38</ele>
+      </trkpt>
+      <trkpt lat="40.64908" lon="-121.459214">
+        <ele>1393.82</ele>
+      </trkpt>
+      <trkpt lat="40.649933" lon="-121.459074">
+        <ele>1391.79</ele>
+      </trkpt>
+      <trkpt lat="40.650488" lon="-121.459366">
+        <ele>1390.32</ele>
+      </trkpt>
+      <trkpt lat="40.650785" lon="-121.459662">
+        <ele>1389.24</ele>
+      </trkpt>
+      <trkpt lat="40.650895" lon="-121.459914">
+        <ele>1388.77</ele>
+      </trkpt>
+      <trkpt lat="40.651251" lon="-121.45996">
+        <ele>1387.89</ele>
+      </trkpt>
+      <trkpt lat="40.651302" lon="-121.460042">
+        <ele>1387.86</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

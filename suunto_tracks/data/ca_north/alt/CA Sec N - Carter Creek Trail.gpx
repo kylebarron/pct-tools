@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec N - Carter Creek Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="40.195175" lon="-121.41742">
+        <ele>2017.59</ele>
+      </trkpt>
+      <trkpt lat="40.19546" lon="-121.417273">
+        <ele>2012.46</ele>
+      </trkpt>
+      <trkpt lat="40.196264" lon="-121.417111">
+        <ele>1997.76</ele>
+      </trkpt>
+      <trkpt lat="40.196628" lon="-121.417147">
+        <ele>1995.52</ele>
+      </trkpt>
+      <trkpt lat="40.197462" lon="-121.41766">
+        <ele>1987.99</ele>
+      </trkpt>
+      <trkpt lat="40.197994" lon="-121.418192">
+        <ele>1985.11</ele>
+      </trkpt>
+      <trkpt lat="40.19871" lon="-121.41834">
+        <ele>1978.4</ele>
+      </trkpt>
+      <trkpt lat="40.199057" lon="-121.41854">
+        <ele>1977.1</ele>
+      </trkpt>
+      <trkpt lat="40.19926" lon="-121.41879">
+        <ele>1976.9</ele>
+      </trkpt>
+      <trkpt lat="40.199968" lon="-121.418977">
+        <ele>1973.68</ele>
+      </trkpt>
+      <trkpt lat="40.200658" lon="-121.419014">
+        <ele>1971.1</ele>
+      </trkpt>
+      <trkpt lat="40.200937" lon="-121.418987">
+        <ele>1970.01</ele>
+      </trkpt>
+      <trkpt lat="40.201174" lon="-121.418714">
+        <ele>1966.92</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

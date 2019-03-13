@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec D - Acton KOA Route</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="34.438358" lon="-118.272085">
+        <ele>677.26</ele>
+      </trkpt>
+      <trkpt lat="34.43839" lon="-118.271695">
+        <ele>677.58</ele>
+      </trkpt>
+      <trkpt lat="34.437954" lon="-118.26866">
+        <ele>678.79</ele>
+      </trkpt>
+      <trkpt lat="34.437963" lon="-118.268571">
+        <ele>678.44</ele>
+      </trkpt>
+      <trkpt lat="34.438093" lon="-118.268496">
+        <ele>678.36</ele>
+      </trkpt>
+      <trkpt lat="34.438317" lon="-118.268491">
+        <ele>678.43</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

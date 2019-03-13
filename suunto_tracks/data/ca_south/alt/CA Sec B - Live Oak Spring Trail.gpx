@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Live Oak Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.623125" lon="-116.563956">
+        <ele>1813.45</ele>
+      </trkpt>
+      <trkpt lat="33.624011" lon="-116.563077">
+        <ele>1799.77</ele>
+      </trkpt>
+      <trkpt lat="33.624283" lon="-116.562543">
+        <ele>1794.71</ele>
+      </trkpt>
+      <trkpt lat="33.624434" lon="-116.562449">
+        <ele>1796.22</ele>
+      </trkpt>
+      <trkpt lat="33.624514" lon="-116.562254">
+        <ele>1792.37</ele>
+      </trkpt>
+      <trkpt lat="33.62492" lon="-116.562114">
+        <ele>1798.59</ele>
+      </trkpt>
+      <trkpt lat="33.6252" lon="-116.561731">
+        <ele>1794.78</ele>
+      </trkpt>
+      <trkpt lat="33.625219" lon="-116.561561">
+        <ele>1790.32</ele>
+      </trkpt>
+      <trkpt lat="33.625004" lon="-116.560942">
+        <ele>1774.85</ele>
+      </trkpt>
+      <trkpt lat="33.62503" lon="-116.560713">
+        <ele>1773.15</ele>
+      </trkpt>
+      <trkpt lat="33.625822" lon="-116.559949">
+        <ele>1760.85</ele>
+      </trkpt>
+      <trkpt lat="33.626171" lon="-116.559501">
+        <ele>1747.27</ele>
+      </trkpt>
+      <trkpt lat="33.626882" lon="-116.560135">
+        <ele>1756.7</ele>
+      </trkpt>
+      <trkpt lat="33.626951" lon="-116.559681">
+        <ele>1744.34</ele>
+      </trkpt>
+      <trkpt lat="33.627087" lon="-116.559426">
+        <ele>1738.08</ele>
+      </trkpt>
+      <trkpt lat="33.627719" lon="-116.559091">
+        <ele>1732.18</ele>
+      </trkpt>
+      <trkpt lat="33.627958" lon="-116.559045">
+        <ele>1732.19</ele>
+      </trkpt>
+      <trkpt lat="33.627164" lon="-116.558664">
+        <ele>1721.74</ele>
+      </trkpt>
+      <trkpt lat="33.626912" lon="-116.558351">
+        <ele>1717.08</ele>
+      </trkpt>
+      <trkpt lat="33.626167" lon="-116.558145">
+        <ele>1714.74</ele>
+      </trkpt>
+      <trkpt lat="33.625698" lon="-116.558209">
+        <ele>1707.41</ele>
+      </trkpt>
+      <trkpt lat="33.625419" lon="-116.558113">
+        <ele>1705.68</ele>
+      </trkpt>
+      <trkpt lat="33.624805" lon="-116.557547">
+        <ele>1693.4</ele>
+      </trkpt>
+      <trkpt lat="33.624313" lon="-116.557337">
+        <ele>1682.65</ele>
+      </trkpt>
+      <trkpt lat="33.624103" lon="-116.55711">
+        <ele>1683.52</ele>
+      </trkpt>
+      <trkpt lat="33.623824" lon="-116.557191">
+        <ele>1679.23</ele>
+      </trkpt>
+      <trkpt lat="33.623567" lon="-116.557147">
+        <ele>1676.44</ele>
+      </trkpt>
+      <trkpt lat="33.6232" lon="-116.556919">
+        <ele>1671.93</ele>
+      </trkpt>
+      <trkpt lat="33.622882" lon="-116.55686">
+        <ele>1668.25</ele>
+      </trkpt>
+      <trkpt lat="33.622471" lon="-116.556509">
+        <ele>1655.91</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

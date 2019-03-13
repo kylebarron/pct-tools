@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec A - CRHT Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.010595" lon="-116.538972">
+        <ele>1430.89</ele>
+      </trkpt>
+      <trkpt lat="33.009458" lon="-116.539877">
+        <ele>1425.93</ele>
+      </trkpt>
+      <trkpt lat="33.009122" lon="-116.539931">
+        <ele>1426.51</ele>
+      </trkpt>
+      <trkpt lat="33.008948" lon="-116.53981">
+        <ele>1426.51</ele>
+      </trkpt>
+      <trkpt lat="33.008502" lon="-116.539193">
+        <ele>1430.51</ele>
+      </trkpt>
+      <trkpt lat="33.006464" lon="-116.538397">
+        <ele>1433.74</ele>
+      </trkpt>
+      <trkpt lat="33.005389" lon="-116.538086">
+        <ele>1433.85</ele>
+      </trkpt>
+      <trkpt lat="33.004838" lon="-116.538092">
+        <ele>1433.68</ele>
+      </trkpt>
+      <trkpt lat="33.003949" lon="-116.537764">
+        <ele>1434.85</ele>
+      </trkpt>
+      <trkpt lat="33.003235" lon="-116.537644">
+        <ele>1437.21</ele>
+      </trkpt>
+      <trkpt lat="33.002038" lon="-116.5376">
+        <ele>1438.47</ele>
+      </trkpt>
+      <trkpt lat="33.001932" lon="-116.537775">
+        <ele>1438.76</ele>
+      </trkpt>
+      <trkpt lat="33.001716" lon="-116.539118">
+        <ele>1443.96</ele>
+      </trkpt>
+      <trkpt lat="33.001625" lon="-116.539252">
+        <ele>1444.84</ele>
+      </trkpt>
+      <trkpt lat="33.000776" lon="-116.539225">
+        <ele>1446.07</ele>
+      </trkpt>
+      <trkpt lat="32.998803" lon="-116.539373">
+        <ele>1443.06</ele>
+      </trkpt>
+      <trkpt lat="32.996847" lon="-116.539129">
+        <ele>1437.64</ele>
+      </trkpt>
+      <trkpt lat="32.995904" lon="-116.5395">
+        <ele>1433.31</ele>
+      </trkpt>
+      <trkpt lat="32.995507" lon="-116.539863">
+        <ele>1432.04</ele>
+      </trkpt>
+      <trkpt lat="32.994969" lon="-116.54086">
+        <ele>1428.95</ele>
+      </trkpt>
+      <trkpt lat="32.994778" lon="-116.541509">
+        <ele>1426.63</ele>
+      </trkpt>
+      <trkpt lat="32.994566" lon="-116.541612">
+        <ele>1426.78</ele>
+      </trkpt>
+      <trkpt lat="32.994606" lon="-116.542159">
+        <ele>1427.34</ele>
+      </trkpt>
+      <trkpt lat="32.994495" lon="-116.542743">
+        <ele>1426.6</ele>
+      </trkpt>
+      <trkpt lat="32.994368" lon="-116.542739">
+        <ele>1428.19</ele>
+      </trkpt>
+      <trkpt lat="32.994329" lon="-116.54239">
+        <ele>1428.54</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec H - Yosemite Valley Spur Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.870311" lon="-119.371575">
+        <ele>2632.19</ele>
+      </trkpt>
+      <trkpt lat="37.870318" lon="-119.371328">
+        <ele>2632.35</ele>
+      </trkpt>
+      <trkpt lat="37.870195" lon="-119.370983">
+        <ele>2633.23</ele>
+      </trkpt>
+      <trkpt lat="37.870173" lon="-119.370189">
+        <ele>2633.83</ele>
+      </trkpt>
+      <trkpt lat="37.869937" lon="-119.36976">
+        <ele>2634.61</ele>
+      </trkpt>
+      <trkpt lat="37.869766" lon="-119.369073">
+        <ele>2640.34</ele>
+      </trkpt>
+      <trkpt lat="37.869315" lon="-119.368215">
+        <ele>2645.09</ele>
+      </trkpt>
+      <trkpt lat="37.868822" lon="-119.366906">
+        <ele>2645.52</ele>
+      </trkpt>
+      <trkpt lat="37.868671" lon="-119.366713">
+        <ele>2645.65</ele>
+      </trkpt>
+      <trkpt lat="37.868242" lon="-119.366519">
+        <ele>2648.53</ele>
+      </trkpt>
+      <trkpt lat="37.868049" lon="-119.366283">
+        <ele>2649.78</ele>
+      </trkpt>
+      <trkpt lat="37.868328" lon="-119.364588">
+        <ele>2653.62</ele>
+      </trkpt>
+      <trkpt lat="37.868264" lon="-119.363623">
+        <ele>2662.92</ele>
+      </trkpt>
+      <trkpt lat="37.86835" lon="-119.363129">
+        <ele>2663.76</ele>
+      </trkpt>
+      <trkpt lat="37.868414" lon="-119.360812">
+        <ele>2667.45</ele>
+      </trkpt>
+      <trkpt lat="37.8685" lon="-119.360275">
+        <ele>2667.54</ele>
+      </trkpt>
+      <trkpt lat="37.868736" lon="-119.359953">
+        <ele>2665.44</ele>
+      </trkpt>
+      <trkpt lat="37.868822" lon="-119.359138">
+        <ele>2665.88</ele>
+      </trkpt>
+      <trkpt lat="37.868736" lon="-119.35843">
+        <ele>2667.07</ele>
+      </trkpt>
+      <trkpt lat="37.8685" lon="-119.357786">
+        <ele>2669.25</ele>
+      </trkpt>
+      <trkpt lat="37.868478" lon="-119.357486">
+        <ele>2669.64</ele>
+      </trkpt>
+      <trkpt lat="37.868586" lon="-119.356949">
+        <ele>2668.68</ele>
+      </trkpt>
+      <trkpt lat="37.86865" lon="-119.35549">
+        <ele>2669.1</ele>
+      </trkpt>
+      <trkpt lat="37.869015" lon="-119.354675">
+        <ele>2665.35</ele>
+      </trkpt>
+      <trkpt lat="37.869272" lon="-119.354353">
+        <ele>2661.9</ele>
+      </trkpt>
+      <trkpt lat="37.869401" lon="-119.353924">
+        <ele>2661.02</ele>
+      </trkpt>
+      <trkpt lat="37.869401" lon="-119.353602">
+        <ele>2661.2</ele>
+      </trkpt>
+      <trkpt lat="37.869101" lon="-119.352701">
+        <ele>2663.76</ele>
+      </trkpt>
+      <trkpt lat="37.869101" lon="-119.352357">
+        <ele>2664.01</ele>
+      </trkpt>
+      <trkpt lat="37.86938" lon="-119.351821">
+        <ele>2661.04</ele>
+      </trkpt>
+      <trkpt lat="37.869502" lon="-119.350987">
+        <ele>2658.82</ele>
+      </trkpt>
+      <trkpt lat="37.869916" lon="-119.350383">
+        <ele>2653.81</ele>
+      </trkpt>
+      <trkpt lat="37.870774" lon="-119.348259">
+        <ele>2640.64</ele>
+      </trkpt>
+      <trkpt lat="37.871341" lon="-119.347327">
+        <ele>2634.16</ele>
+      </trkpt>
+      <trkpt lat="37.871398" lon="-119.346721">
+        <ele>2631.47</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

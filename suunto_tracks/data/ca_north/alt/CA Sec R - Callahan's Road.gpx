@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec R - Callahan's Road</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.066565" lon="-122.602985">
+        <ele>1283.69</ele>
+      </trkpt>
+      <trkpt lat="42.066794" lon="-122.602912">
+        <ele>1276.88</ele>
+      </trkpt>
+      <trkpt lat="42.067216" lon="-122.603135">
+        <ele>1278.39</ele>
+      </trkpt>
+      <trkpt lat="42.068684" lon="-122.603257">
+        <ele>1274.63</ele>
+      </trkpt>
+      <trkpt lat="42.069419" lon="-122.603582">
+        <ele>1270.15</ele>
+      </trkpt>
+      <trkpt lat="42.072332" lon="-122.605792">
+        <ele>1240.7</ele>
+      </trkpt>
+      <trkpt lat="42.072667" lon="-122.606189">
+        <ele>1235.6</ele>
+      </trkpt>
+      <trkpt lat="42.072959" lon="-122.606837">
+        <ele>1233.62</ele>
+      </trkpt>
+      <trkpt lat="42.073371" lon="-122.607293">
+        <ele>1230.17</ele>
+      </trkpt>
+      <trkpt lat="42.073469" lon="-122.607002">
+        <ele>1229.76</ele>
+      </trkpt>
+      <trkpt lat="42.073436" lon="-122.60666">
+        <ele>1229.16</ele>
+      </trkpt>
+      <trkpt lat="42.073024" lon="-122.604414">
+        <ele>1221.03</ele>
+      </trkpt>
+      <trkpt lat="42.073235" lon="-122.602539">
+        <ele>1209.15</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

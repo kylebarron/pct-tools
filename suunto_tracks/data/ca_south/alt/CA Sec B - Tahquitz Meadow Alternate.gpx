@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Tahquitz Meadow Alternate</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.760782" lon="-116.665519">
+        <ele>2475.17</ele>
+      </trkpt>
+      <trkpt lat="33.76078" lon="-116.665396">
+        <ele>2472.16</ele>
+      </trkpt>
+      <trkpt lat="33.760933" lon="-116.665274">
+        <ele>2468.55</ele>
+      </trkpt>
+      <trkpt lat="33.761124" lon="-116.665557">
+        <ele>2471.29</ele>
+      </trkpt>
+      <trkpt lat="33.761332" lon="-116.665309">
+        <ele>2463.73</ele>
+      </trkpt>
+      <trkpt lat="33.76167" lon="-116.665121">
+        <ele>2461.32</ele>
+      </trkpt>
+      <trkpt lat="33.762061" lon="-116.665159">
+        <ele>2459.1</ele>
+      </trkpt>
+      <trkpt lat="33.762264" lon="-116.664694">
+        <ele>2453.52</ele>
+      </trkpt>
+      <trkpt lat="33.762517" lon="-116.664639">
+        <ele>2452.87</ele>
+      </trkpt>
+      <trkpt lat="33.762692" lon="-116.664848">
+        <ele>2455.85</ele>
+      </trkpt>
+      <trkpt lat="33.76299" lon="-116.664834">
+        <ele>2457.59</ele>
+      </trkpt>
+      <trkpt lat="33.76304" lon="-116.664611">
+        <ele>2455.86</ele>
+      </trkpt>
+      <trkpt lat="33.763316" lon="-116.664234">
+        <ele>2453.53</ele>
+      </trkpt>
+      <trkpt lat="33.763489" lon="-116.664184">
+        <ele>2455.38</ele>
+      </trkpt>
+      <trkpt lat="33.763791" lon="-116.663843">
+        <ele>2450.11</ele>
+      </trkpt>
+      <trkpt lat="33.764606" lon="-116.663616">
+        <ele>2447.54</ele>
+      </trkpt>
+      <trkpt lat="33.765135" lon="-116.662994">
+        <ele>2428.96</ele>
+      </trkpt>
+      <trkpt lat="33.765483" lon="-116.663074">
+        <ele>2427.59</ele>
+      </trkpt>
+      <trkpt lat="33.765667" lon="-116.663437">
+        <ele>2437.07</ele>
+      </trkpt>
+      <trkpt lat="33.766349" lon="-116.663688">
+        <ele>2433.03</ele>
+      </trkpt>
+      <trkpt lat="33.766695" lon="-116.663287">
+        <ele>2423.68</ele>
+      </trkpt>
+      <trkpt lat="33.766958" lon="-116.66314">
+        <ele>2420.76</ele>
+      </trkpt>
+      <trkpt lat="33.767651" lon="-116.663049">
+        <ele>2412.21</ele>
+      </trkpt>
+      <trkpt lat="33.767888" lon="-116.663345">
+        <ele>2407.16</ele>
+      </trkpt>
+      <trkpt lat="33.768214" lon="-116.663503">
+        <ele>2402.56</ele>
+      </trkpt>
+      <trkpt lat="33.768185" lon="-116.663657">
+        <ele>2403.95</ele>
+      </trkpt>
+      <trkpt lat="33.768398" lon="-116.663847">
+        <ele>2406.82</ele>
+      </trkpt>
+      <trkpt lat="33.768392" lon="-116.664009">
+        <ele>2408.14</ele>
+      </trkpt>
+      <trkpt lat="33.768515" lon="-116.664295">
+        <ele>2410.82</ele>
+      </trkpt>
+      <trkpt lat="33.768744" lon="-116.664546">
+        <ele>2415.32</ele>
+      </trkpt>
+      <trkpt lat="33.769097" lon="-116.664694">
+        <ele>2419.31</ele>
+      </trkpt>
+      <trkpt lat="33.769555" lon="-116.664685">
+        <ele>2425.64</ele>
+      </trkpt>
+      <trkpt lat="33.770101" lon="-116.6649">
+        <ele>2435.05</ele>
+      </trkpt>
+      <trkpt lat="33.770302" lon="-116.664734">
+        <ele>2435.51</ele>
+      </trkpt>
+      <trkpt lat="33.770498" lon="-116.66508">
+        <ele>2437.57</ele>
+      </trkpt>
+      <trkpt lat="33.770929" lon="-116.665416">
+        <ele>2438.24</ele>
+      </trkpt>
+      <trkpt lat="33.771195" lon="-116.665913">
+        <ele>2439.76</ele>
+      </trkpt>
+      <trkpt lat="33.771616" lon="-116.667124">
+        <ele>2441.47</ele>
+      </trkpt>
+      <trkpt lat="33.771684" lon="-116.667647">
+        <ele>2441.61</ele>
+      </trkpt>
+      <trkpt lat="33.771995" lon="-116.667984">
+        <ele>2439.57</ele>
+      </trkpt>
+      <trkpt lat="33.77229" lon="-116.66873">
+        <ele>2440.47</ele>
+      </trkpt>
+      <trkpt lat="33.772306" lon="-116.669158">
+        <ele>2441.91</ele>
+      </trkpt>
+      <trkpt lat="33.772485" lon="-116.669755">
+        <ele>2444.77</ele>
+      </trkpt>
+      <trkpt lat="33.772554" lon="-116.670806">
+        <ele>2454.97</ele>
+      </trkpt>
+      <trkpt lat="33.772744" lon="-116.67093">
+        <ele>2454.95</ele>
+      </trkpt>
+      <trkpt lat="33.773112" lon="-116.671908">
+        <ele>2461.59</ele>
+      </trkpt>
+      <trkpt lat="33.773442" lon="-116.672374">
+        <ele>2464.32</ele>
+      </trkpt>
+      <trkpt lat="33.773983" lon="-116.672748">
+        <ele>2470.04</ele>
+      </trkpt>
+      <trkpt lat="33.774199" lon="-116.67305">
+        <ele>2472.72</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

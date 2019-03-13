@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Eagle Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.672344" lon="-116.582062">
+        <ele>2116.3</ele>
+      </trkpt>
+      <trkpt lat="33.672234" lon="-116.582275">
+        <ele>2117.45</ele>
+      </trkpt>
+      <trkpt lat="33.671959" lon="-116.582176">
+        <ele>2114.25</ele>
+      </trkpt>
+      <trkpt lat="33.671623" lon="-116.582359">
+        <ele>2101.58</ele>
+      </trkpt>
+      <trkpt lat="33.671345" lon="-116.582176">
+        <ele>2094.91</ele>
+      </trkpt>
+      <trkpt lat="33.6712" lon="-116.582291">
+        <ele>2091.28</ele>
+      </trkpt>
+      <trkpt lat="33.670952" lon="-116.582329">
+        <ele>2084.19</ele>
+      </trkpt>
+      <trkpt lat="33.670883" lon="-116.582436">
+        <ele>2084.18</ele>
+      </trkpt>
+      <trkpt lat="33.670471" lon="-116.582428">
+        <ele>2072.68</ele>
+      </trkpt>
+      <trkpt lat="33.670322" lon="-116.582367">
+        <ele>2066.74</ele>
+      </trkpt>
+      <trkpt lat="33.670258" lon="-116.582237">
+        <ele>2061.85</ele>
+      </trkpt>
+      <trkpt lat="33.670071" lon="-116.582237">
+        <ele>2058.11</ele>
+      </trkpt>
+      <trkpt lat="33.669888" lon="-116.582085">
+        <ele>2051.55</ele>
+      </trkpt>
+      <trkpt lat="33.669662" lon="-116.581573">
+        <ele>2058.64</ele>
+      </trkpt>
+      <trkpt lat="33.669468" lon="-116.581436">
+        <ele>2052.92</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

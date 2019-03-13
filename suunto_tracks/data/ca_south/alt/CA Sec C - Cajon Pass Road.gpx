@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec C - Cajon Pass Road</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="34.306033" lon="-117.46619">
+        <ele>926.35</ele>
+      </trkpt>
+      <trkpt lat="34.306009" lon="-117.466324">
+        <ele>924.76</ele>
+      </trkpt>
+      <trkpt lat="34.3061" lon="-117.466462">
+        <ele>924.98</ele>
+      </trkpt>
+      <trkpt lat="34.307899" lon="-117.468158">
+        <ele>926.36</ele>
+      </trkpt>
+      <trkpt lat="34.310149" lon="-117.471604">
+        <ele>940.99</ele>
+      </trkpt>
+      <trkpt lat="34.31179" lon="-117.473136">
+        <ele>959.22</ele>
+      </trkpt>
+      <trkpt lat="34.311793" lon="-117.474006">
+        <ele>950.52</ele>
+      </trkpt>
+      <trkpt lat="34.311608" lon="-117.476823">
+        <ele>949.86</ele>
+      </trkpt>
+      <trkpt lat="34.31176" lon="-117.476986">
+        <ele>950.64</ele>
+      </trkpt>
+      <trkpt lat="34.311747" lon="-117.478143">
+        <ele>951.29</ele>
+      </trkpt>
+      <trkpt lat="34.31204" lon="-117.478245">
+        <ele>952.86</ele>
+      </trkpt>
+      <trkpt lat="34.312766" lon="-117.47814">
+        <ele>958.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

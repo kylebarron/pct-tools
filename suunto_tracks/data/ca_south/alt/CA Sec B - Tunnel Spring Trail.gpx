@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Tunnel Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.623081" lon="-116.564058">
+        <ele>1814.56</ele>
+      </trkpt>
+      <trkpt lat="33.622429" lon="-116.564818">
+        <ele>1803.42</ele>
+      </trkpt>
+      <trkpt lat="33.622383" lon="-116.564959">
+        <ele>1799.41</ele>
+      </trkpt>
+      <trkpt lat="33.622202" lon="-116.565029">
+        <ele>1798.39</ele>
+      </trkpt>
+      <trkpt lat="33.621506" lon="-116.565735">
+        <ele>1778.31</ele>
+      </trkpt>
+      <trkpt lat="33.621362" lon="-116.566021">
+        <ele>1769.07</ele>
+      </trkpt>
+      <trkpt lat="33.621411" lon="-116.566155">
+        <ele>1765.57</ele>
+      </trkpt>
+      <trkpt lat="33.621335" lon="-116.566297">
+        <ele>1760.49</ele>
+      </trkpt>
+      <trkpt lat="33.621076" lon="-116.566498">
+        <ele>1750.4</ele>
+      </trkpt>
+      <trkpt lat="33.621154" lon="-116.567226">
+        <ele>1731.31</ele>
+      </trkpt>
+      <trkpt lat="33.62142" lon="-116.567298">
+        <ele>1730.18</ele>
+      </trkpt>
+      <trkpt lat="33.622217" lon="-116.567214">
+        <ele>1734.04</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

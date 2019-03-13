@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec H - Evolution Creek Alternate</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.194849" lon="-118.773032">
+        <ele>2815.25</ele>
+      </trkpt>
+      <trkpt lat="37.19511" lon="-118.773701">
+        <ele>2813.89</ele>
+      </trkpt>
+      <trkpt lat="37.195285" lon="-118.774569">
+        <ele>2811.83</ele>
+      </trkpt>
+      <trkpt lat="37.19511" lon="-118.775043">
+        <ele>2811.94</ele>
+      </trkpt>
+      <trkpt lat="37.194882" lon="-118.775097">
+        <ele>2812.56</ele>
+      </trkpt>
+      <trkpt lat="37.194565" lon="-118.775797">
+        <ele>2814.72</ele>
+      </trkpt>
+      <trkpt lat="37.194498" lon="-118.776556">
+        <ele>2816.1</ele>
+      </trkpt>
+      <trkpt lat="37.194611" lon="-118.777248">
+        <ele>2818.07</ele>
+      </trkpt>
+      <trkpt lat="37.194928" lon="-118.77785">
+        <ele>2816.16</ele>
+      </trkpt>
+      <trkpt lat="37.194997" lon="-118.778317">
+        <ele>2817.02</ele>
+      </trkpt>
+      <trkpt lat="37.19515" lon="-118.778648">
+        <ele>2817.1</ele>
+      </trkpt>
+      <trkpt lat="37.195296" lon="-118.778756">
+        <ele>2817.61</ele>
+      </trkpt>
+      <trkpt lat="37.19567" lon="-118.778674">
+        <ele>2817.84</ele>
+      </trkpt>
+      <trkpt lat="37.195783" lon="-118.779163">
+        <ele>2818.07</ele>
+      </trkpt>
+      <trkpt lat="37.195913" lon="-118.779238">
+        <ele>2817.61</ele>
+      </trkpt>
+      <trkpt lat="37.195936" lon="-118.77949">
+        <ele>2817.54</ele>
+      </trkpt>
+      <trkpt lat="37.19613" lon="-118.77988">
+        <ele>2815.12</ele>
+      </trkpt>
+      <trkpt lat="37.195818" lon="-118.780489">
+        <ele>2812.71</ele>
+      </trkpt>
+      <trkpt lat="37.195833" lon="-118.780868">
+        <ele>2807.99</ele>
+      </trkpt>
+      <trkpt lat="37.195538" lon="-118.781227">
+        <ele>2806.97</ele>
+      </trkpt>
+      <trkpt lat="37.195525" lon="-118.781512">
+        <ele>2807.52</ele>
+      </trkpt>
+      <trkpt lat="37.195409" lon="-118.781775">
+        <ele>2807.9</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

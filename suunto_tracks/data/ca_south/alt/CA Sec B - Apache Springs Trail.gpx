@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Apache Springs Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.716687" lon="-116.624487">
+        <ele>2240.71</ele>
+      </trkpt>
+      <trkpt lat="33.717099" lon="-116.624172">
+        <ele>2229.5</ele>
+      </trkpt>
+      <trkpt lat="33.717191" lon="-116.623864">
+        <ele>2225.41</ele>
+      </trkpt>
+      <trkpt lat="33.71745" lon="-116.62345">
+        <ele>2223.63</ele>
+      </trkpt>
+      <trkpt lat="33.718206" lon="-116.622829">
+        <ele>2213.11</ele>
+      </trkpt>
+      <trkpt lat="33.718383" lon="-116.622559">
+        <ele>2204.59</ele>
+      </trkpt>
+      <trkpt lat="33.718315" lon="-116.622512">
+        <ele>2202.33</ele>
+      </trkpt>
+      <trkpt lat="33.718795" lon="-116.622083">
+        <ele>2184.61</ele>
+      </trkpt>
+      <trkpt lat="33.718791" lon="-116.621973">
+        <ele>2178.73</ele>
+      </trkpt>
+      <trkpt lat="33.718649" lon="-116.621896">
+        <ele>2170.13</ele>
+      </trkpt>
+      <trkpt lat="33.718565" lon="-116.62155">
+        <ele>2156.57</ele>
+      </trkpt>
+      <trkpt lat="33.718713" lon="-116.621323">
+        <ele>2152.42</ele>
+      </trkpt>
+      <trkpt lat="33.718569" lon="-116.621161">
+        <ele>2146.93</ele>
+      </trkpt>
+      <trkpt lat="33.718703" lon="-116.620772">
+        <ele>2139.37</ele>
+      </trkpt>
+      <trkpt lat="33.718823" lon="-116.620669">
+        <ele>2136.56</ele>
+      </trkpt>
+      <trkpt lat="33.71885" lon="-116.62048">
+        <ele>2130.38</ele>
+      </trkpt>
+      <trkpt lat="33.719147" lon="-116.620425">
+        <ele>2122.68</ele>
+      </trkpt>
+      <trkpt lat="33.719138" lon="-116.62023">
+        <ele>2116.87</ele>
+      </trkpt>
+      <trkpt lat="33.719221" lon="-116.62014">
+        <ele>2112.16</ele>
+      </trkpt>
+      <trkpt lat="33.71918" lon="-116.620028">
+        <ele>2110.11</ele>
+      </trkpt>
+      <trkpt lat="33.719308" lon="-116.61965">
+        <ele>2102.52</ele>
+      </trkpt>
+      <trkpt lat="33.719624" lon="-116.619544">
+        <ele>2092.97</ele>
+      </trkpt>
+      <trkpt lat="33.719757" lon="-116.619684">
+        <ele>2089.92</ele>
+      </trkpt>
+      <trkpt lat="33.719868" lon="-116.620281">
+        <ele>2084.33</ele>
+      </trkpt>
+      <trkpt lat="33.719806" lon="-116.620394">
+        <ele>2085.5</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

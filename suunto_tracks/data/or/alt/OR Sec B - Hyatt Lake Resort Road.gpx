@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec B - Hyatt Lake Resort Road</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.164443" lon="-122.465199">
+        <ele>1556.49</ele>
+      </trkpt>
+      <trkpt lat="42.164564" lon="-122.465196">
+        <ele>1557.63</ele>
+      </trkpt>
+      <trkpt lat="42.164905" lon="-122.46578">
+        <ele>1549.34</ele>
+      </trkpt>
+      <trkpt lat="42.167137" lon="-122.467968">
+        <ele>1542.52</ele>
+      </trkpt>
+      <trkpt lat="42.168102" lon="-122.468634">
+        <ele>1538.15</ele>
+      </trkpt>
+      <trkpt lat="42.170548" lon="-122.469749">
+        <ele>1514.79</ele>
+      </trkpt>
+      <trkpt lat="42.170806" lon="-122.470028">
+        <ele>1513.95</ele>
+      </trkpt>
+      <trkpt lat="42.171063" lon="-122.470565">
+        <ele>1521.98</ele>
+      </trkpt>
+      <trkpt lat="42.171535" lon="-122.472646">
+        <ele>1528.64</ele>
+      </trkpt>
+      <trkpt lat="42.171664" lon="-122.472839">
+        <ele>1526.66</ele>
+      </trkpt>
+      <trkpt lat="42.171965" lon="-122.473011">
+        <ele>1525.69</ele>
+      </trkpt>
+      <trkpt lat="42.172372" lon="-122.472861">
+        <ele>1526.79</ele>
+      </trkpt>
+      <trkpt lat="42.17278" lon="-122.47226">
+        <ele>1530.76</ele>
+      </trkpt>
+      <trkpt lat="42.173445" lon="-122.470908">
+        <ele>1536.13</ele>
+      </trkpt>
+      <trkpt lat="42.173917" lon="-122.470243">
+        <ele>1532.96</ele>
+      </trkpt>
+      <trkpt lat="42.174432" lon="-122.470071">
+        <ele>1531.16</ele>
+      </trkpt>
+      <trkpt lat="42.175205" lon="-122.470093">
+        <ele>1535.22</ele>
+      </trkpt>
+      <trkpt lat="42.176321" lon="-122.469449">
+        <ele>1533.78</ele>
+      </trkpt>
+      <trkpt lat="42.177587" lon="-122.468441">
+        <ele>1533.38</ele>
+      </trkpt>
+      <trkpt lat="42.178316" lon="-122.466896">
+        <ele>1534.46</ele>
+      </trkpt>
+      <trkpt lat="42.178617" lon="-122.466509">
+        <ele>1533.7</ele>
+      </trkpt>
+      <trkpt lat="42.178874" lon="-122.466424">
+        <ele>1532.8</ele>
+      </trkpt>
+      <trkpt lat="42.179453" lon="-122.466509">
+        <ele>1532.07</ele>
+      </trkpt>
+      <trkpt lat="42.180054" lon="-122.46623">
+        <ele>1531.36</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

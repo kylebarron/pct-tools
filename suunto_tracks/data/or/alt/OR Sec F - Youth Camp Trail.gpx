@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec F - Youth Camp Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.361363" lon="-121.871529">
+        <ele>1454.34</ele>
+      </trkpt>
+      <trkpt lat="44.361816" lon="-121.871406">
+        <ele>1451.13</ele>
+      </trkpt>
+      <trkpt lat="44.362295" lon="-121.870971">
+        <ele>1449.76</ele>
+      </trkpt>
+      <trkpt lat="44.363757" lon="-121.869971">
+        <ele>1440.83</ele>
+      </trkpt>
+      <trkpt lat="44.364859" lon="-121.868478">
+        <ele>1434.67</ele>
+      </trkpt>
+      <trkpt lat="44.365945" lon="-121.867899">
+        <ele>1430.9</ele>
+      </trkpt>
+      <trkpt lat="44.36768" lon="-121.866691">
+        <ele>1431.88</ele>
+      </trkpt>
+      <trkpt lat="44.368484" lon="-121.866379">
+        <ele>1431.91</ele>
+      </trkpt>
+      <trkpt lat="44.369594" lon="-121.866167">
+        <ele>1431.31</ele>
+      </trkpt>
+      <trkpt lat="44.371168" lon="-121.86526">
+        <ele>1431.69</ele>
+      </trkpt>
+      <trkpt lat="44.37151" lon="-121.864941">
+        <ele>1431.85</ele>
+      </trkpt>
+      <trkpt lat="44.371568" lon="-121.864985">
+        <ele>1431.52</ele>
+      </trkpt>
+      <trkpt lat="44.371556" lon="-121.865321">
+        <ele>1430.72</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

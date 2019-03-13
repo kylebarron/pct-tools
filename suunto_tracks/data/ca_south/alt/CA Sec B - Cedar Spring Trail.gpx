@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Cedar Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.666269" lon="-116.575308">
+        <ele>2065.14</ele>
+      </trkpt>
+      <trkpt lat="33.66661" lon="-116.57546">
+        <ele>2065.91</ele>
+      </trkpt>
+      <trkpt lat="33.666977" lon="-116.575301">
+        <ele>2055.28</ele>
+      </trkpt>
+      <trkpt lat="33.668822" lon="-116.575338">
+        <ele>2043.49</ele>
+      </trkpt>
+      <trkpt lat="33.669417" lon="-116.575605">
+        <ele>2045.91</ele>
+      </trkpt>
+      <trkpt lat="33.670148" lon="-116.575376">
+        <ele>2029.77</ele>
+      </trkpt>
+      <trkpt lat="33.670419" lon="-116.575396">
+        <ele>2026.2</ele>
+      </trkpt>
+      <trkpt lat="33.670592" lon="-116.575579">
+        <ele>2026.49</ele>
+      </trkpt>
+      <trkpt lat="33.671308" lon="-116.575916">
+        <ele>2006.76</ele>
+      </trkpt>
+      <trkpt lat="33.672028" lon="-116.575594">
+        <ele>2002.49</ele>
+      </trkpt>
+      <trkpt lat="33.672752" lon="-116.575786">
+        <ele>2005.46</ele>
+      </trkpt>
+      <trkpt lat="33.673072" lon="-116.57558">
+        <ele>2001.04</ele>
+      </trkpt>
+      <trkpt lat="33.673426" lon="-116.575192">
+        <ele>1986.17</ele>
+      </trkpt>
+      <trkpt lat="33.673731" lon="-116.575121">
+        <ele>1981.23</ele>
+      </trkpt>
+      <trkpt lat="33.674097" lon="-116.575345">
+        <ele>1982.85</ele>
+      </trkpt>
+      <trkpt lat="33.675123" lon="-116.575648">
+        <ele>1960.38</ele>
+      </trkpt>
+      <trkpt lat="33.675776" lon="-116.575522">
+        <ele>1957.7</ele>
+      </trkpt>
+      <trkpt lat="33.676347" lon="-116.575654">
+        <ele>1956.65</ele>
+      </trkpt>
+      <trkpt lat="33.676466" lon="-116.57559">
+        <ele>1953.34</ele>
+      </trkpt>
+      <trkpt lat="33.676603" lon="-116.575784">
+        <ele>1951.92</ele>
+      </trkpt>
+      <trkpt lat="33.676497" lon="-116.576059">
+        <ele>1958.33</ele>
+      </trkpt>
+      <trkpt lat="33.676749" lon="-116.57656">
+        <ele>1946.03</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

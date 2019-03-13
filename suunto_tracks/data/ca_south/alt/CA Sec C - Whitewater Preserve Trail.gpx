@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec C - Whitewater Preserve Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.991983" lon="-116.664394">
+        <ele>704.6</ele>
+      </trkpt>
+      <trkpt lat="33.991531" lon="-116.663514">
+        <ele>696.24</ele>
+      </trkpt>
+      <trkpt lat="33.991219" lon="-116.663204">
+        <ele>695.82</ele>
+      </trkpt>
+      <trkpt lat="33.990903" lon="-116.6626">
+        <ele>691.2</ele>
+      </trkpt>
+      <trkpt lat="33.991039" lon="-116.662256">
+        <ele>688.98</ele>
+      </trkpt>
+      <trkpt lat="33.991037" lon="-116.662068">
+        <ele>688.72</ele>
+      </trkpt>
+      <trkpt lat="33.99084" lon="-116.661658">
+        <ele>687.36</ele>
+      </trkpt>
+      <trkpt lat="33.991016" lon="-116.661299">
+        <ele>687.57</ele>
+      </trkpt>
+      <trkpt lat="33.990891" lon="-116.660985">
+        <ele>686.56</ele>
+      </trkpt>
+      <trkpt lat="33.990912" lon="-116.660735">
+        <ele>686.39</ele>
+      </trkpt>
+      <trkpt lat="33.99069" lon="-116.660327">
+        <ele>684.95</ele>
+      </trkpt>
+      <trkpt lat="33.990377" lon="-116.660026">
+        <ele>682.95</ele>
+      </trkpt>
+      <trkpt lat="33.99053" lon="-116.659674">
+        <ele>682.61</ele>
+      </trkpt>
+      <trkpt lat="33.991119" lon="-116.659307">
+        <ele>684.24</ele>
+      </trkpt>
+      <trkpt lat="33.991165" lon="-116.659151">
+        <ele>685.24</ele>
+      </trkpt>
+      <trkpt lat="33.990643" lon="-116.658829">
+        <ele>684.36</ele>
+      </trkpt>
+      <trkpt lat="33.990664" lon="-116.658582">
+        <ele>683.95</ele>
+      </trkpt>
+      <trkpt lat="33.990114" lon="-116.658012">
+        <ele>679.34</ele>
+      </trkpt>
+      <trkpt lat="33.990127" lon="-116.657589">
+        <ele>679.0</ele>
+      </trkpt>
+      <trkpt lat="33.990041" lon="-116.65727">
+        <ele>678.64</ele>
+      </trkpt>
+      <trkpt lat="33.989229" lon="-116.656201">
+        <ele>673.23</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec E - Sawmill Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="34.703393" lon="-118.576128">
+        <ele>1525.5</ele>
+      </trkpt>
+      <trkpt lat="34.703369" lon="-118.57587">
+        <ele>1527.5</ele>
+      </trkpt>
+      <trkpt lat="34.702972" lon="-118.575384">
+        <ele>1536.71</ele>
+      </trkpt>
+      <trkpt lat="34.702914" lon="-118.574703">
+        <ele>1533.97</ele>
+      </trkpt>
+      <trkpt lat="34.702637" lon="-118.574573">
+        <ele>1542.33</ele>
+      </trkpt>
+      <trkpt lat="34.702223" lon="-118.574204">
+        <ele>1553.53</ele>
+      </trkpt>
+      <trkpt lat="34.701954" lon="-118.573933">
+        <ele>1562.2</ele>
+      </trkpt>
+      <trkpt lat="34.701787" lon="-118.573618">
+        <ele>1572.34</ele>
+      </trkpt>
+      <trkpt lat="34.701733" lon="-118.573355">
+        <ele>1575.6</ele>
+      </trkpt>
+      <trkpt lat="34.701824" lon="-118.573133">
+        <ele>1574.87</ele>
+      </trkpt>
+      <trkpt lat="34.701685" lon="-118.572542">
+        <ele>1582.49</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

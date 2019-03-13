@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec C - Annie Springs Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.879675" lon="-122.172449">
+        <ele>1931.22</ele>
+      </trkpt>
+      <trkpt lat="42.879384" lon="-122.172422">
+        <ele>1931.06</ele>
+      </trkpt>
+      <trkpt lat="42.879228" lon="-122.172259">
+        <ele>1930.56</ele>
+      </trkpt>
+      <trkpt lat="42.879046" lon="-122.171851">
+        <ele>1930.37</ele>
+      </trkpt>
+      <trkpt lat="42.87846" lon="-122.171657">
+        <ele>1929.7</ele>
+      </trkpt>
+      <trkpt lat="42.878267" lon="-122.17137">
+        <ele>1931.96</ele>
+      </trkpt>
+      <trkpt lat="42.877265" lon="-122.170803">
+        <ele>1939.82</ele>
+      </trkpt>
+      <trkpt lat="42.876667" lon="-122.170612">
+        <ele>1931.96</ele>
+      </trkpt>
+      <trkpt lat="42.875778" lon="-122.170647">
+        <ele>1921.57</ele>
+      </trkpt>
+      <trkpt lat="42.87504" lon="-122.170537">
+        <ele>1911.06</ele>
+      </trkpt>
+      <trkpt lat="42.874047" lon="-122.169807">
+        <ele>1902.71</ele>
+      </trkpt>
+      <trkpt lat="42.873672" lon="-122.169686">
+        <ele>1891.45</ele>
+      </trkpt>
+      <trkpt lat="42.873427" lon="-122.169758">
+        <ele>1878.56</ele>
+      </trkpt>
+      <trkpt lat="42.873246" lon="-122.169403">
+        <ele>1880.76</ele>
+      </trkpt>
+      <trkpt lat="42.872714" lon="-122.1688">
+        <ele>1867.8</ele>
+      </trkpt>
+      <trkpt lat="42.872767" lon="-122.169259">
+        <ele>1861.74</ele>
+      </trkpt>
+      <trkpt lat="42.87288" lon="-122.169404">
+        <ele>1861.7</ele>
+      </trkpt>
+      <trkpt lat="42.873074" lon="-122.170007">
+        <ele>1856.81</ele>
+      </trkpt>
+      <trkpt lat="42.872847" lon="-122.16989">
+        <ele>1850.22</ele>
+      </trkpt>
+      <trkpt lat="42.872572" lon="-122.169559">
+        <ele>1846.56</ele>
+      </trkpt>
+      <trkpt lat="42.87225" lon="-122.169537">
+        <ele>1840.75</ele>
+      </trkpt>
+      <trkpt lat="42.872026" lon="-122.169191">
+        <ele>1836.08</ele>
+      </trkpt>
+      <trkpt lat="42.871847" lon="-122.169308">
+        <ele>1835.26</ele>
+      </trkpt>
+      <trkpt lat="42.87159" lon="-122.169174">
+        <ele>1835.0</ele>
+      </trkpt>
+      <trkpt lat="42.871497" lon="-122.169276">
+        <ele>1834.66</ele>
+      </trkpt>
+      <trkpt lat="42.871023" lon="-122.169302">
+        <ele>1832.27</ele>
+      </trkpt>
+      <trkpt lat="42.870795" lon="-122.168961">
+        <ele>1833.85</ele>
+      </trkpt>
+      <trkpt lat="42.869642" lon="-122.168609">
+        <ele>1835.14</ele>
+      </trkpt>
+      <trkpt lat="42.868642" lon="-122.167773">
+        <ele>1835.58</ele>
+      </trkpt>
+      <trkpt lat="42.868369" lon="-122.167677">
+        <ele>1835.59</ele>
+      </trkpt>
+      <trkpt lat="42.868048" lon="-122.167728">
+        <ele>1835.93</ele>
+      </trkpt>
+      <trkpt lat="42.867636" lon="-122.167236">
+        <ele>1835.58</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

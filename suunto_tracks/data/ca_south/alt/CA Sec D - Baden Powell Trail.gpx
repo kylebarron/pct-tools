@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec D - Baden Powell Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="34.359606" lon="-117.763784">
+        <ele>2818.61</ele>
+      </trkpt>
+      <trkpt lat="34.359277" lon="-117.764087">
+        <ele>2832.74</ele>
+      </trkpt>
+      <trkpt lat="34.359234" lon="-117.764581">
+        <ele>2836.78</ele>
+      </trkpt>
+      <trkpt lat="34.359013" lon="-117.764386">
+        <ele>2850.42</ele>
+      </trkpt>
+      <trkpt lat="34.358978" lon="-117.764712">
+        <ele>2856.92</ele>
+      </trkpt>
+      <trkpt lat="34.358732" lon="-117.764888">
+        <ele>2859.56</ele>
+      </trkpt>
+      <trkpt lat="34.35852" lon="-117.764649">
+        <ele>2862.0</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

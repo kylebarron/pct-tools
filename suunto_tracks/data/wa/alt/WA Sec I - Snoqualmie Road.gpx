@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>WA Sec I - Snoqualmie Road</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="47.425764" lon="-121.41575">
+        <ele>914.0</ele>
+      </trkpt>
+      <trkpt lat="47.42499" lon="-121.415278">
+        <ele>915.9</ele>
+      </trkpt>
+      <trkpt lat="47.422637" lon="-121.41265">
+        <ele>919.79</ele>
+      </trkpt>
+      <trkpt lat="47.422491" lon="-121.411908">
+        <ele>919.82</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

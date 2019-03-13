@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec F - Frog Lake CG Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.229557" lon="-121.700009">
+        <ele>1194.07</ele>
+      </trkpt>
+      <trkpt lat="45.229326" lon="-121.69972">
+        <ele>1194.61</ele>
+      </trkpt>
+      <trkpt lat="45.22931" lon="-121.699234">
+        <ele>1196.55</ele>
+      </trkpt>
+      <trkpt lat="45.228667" lon="-121.698762">
+        <ele>1197.29</ele>
+      </trkpt>
+      <trkpt lat="45.227833" lon="-121.697344">
+        <ele>1200.98</ele>
+      </trkpt>
+      <trkpt lat="45.227518" lon="-121.696504">
+        <ele>1202.7</ele>
+      </trkpt>
+      <trkpt lat="45.227187" lon="-121.696068">
+        <ele>1202.37</ele>
+      </trkpt>
+      <trkpt lat="45.226237" lon="-121.695649">
+        <ele>1197.13</ele>
+      </trkpt>
+      <trkpt lat="45.225574" lon="-121.694904">
+        <ele>1196.88</ele>
+      </trkpt>
+      <trkpt lat="45.224787" lon="-121.694228">
+        <ele>1194.66</ele>
+      </trkpt>
+      <trkpt lat="45.224282" lon="-121.694401">
+        <ele>1191.84</ele>
+      </trkpt>
+      <trkpt lat="45.223268" lon="-121.694062">
+        <ele>1186.34</ele>
+      </trkpt>
+      <trkpt lat="45.222684" lon="-121.694153">
+        <ele>1182.86</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

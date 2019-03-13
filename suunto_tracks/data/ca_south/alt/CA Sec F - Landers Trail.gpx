@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec F - Landers Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="35.451657" lon="-118.313449">
+        <ele>1924.36</ele>
+      </trkpt>
+      <trkpt lat="35.451805" lon="-118.313528">
+        <ele>1922.98</ele>
+      </trkpt>
+      <trkpt lat="35.452054" lon="-118.313476">
+        <ele>1923.03</ele>
+      </trkpt>
+      <trkpt lat="35.453333" lon="-118.312922">
+        <ele>1912.32</ele>
+      </trkpt>
+      <trkpt lat="35.453893" lon="-118.313052">
+        <ele>1909.54</ele>
+      </trkpt>
+      <trkpt lat="35.454434" lon="-118.313622">
+        <ele>1902.01</ele>
+      </trkpt>
+      <trkpt lat="35.454688" lon="-118.313746">
+        <ele>1900.65</ele>
+      </trkpt>
+      <trkpt lat="35.454946" lon="-118.313451">
+        <ele>1902.24</ele>
+      </trkpt>
+      <trkpt lat="35.455202" lon="-118.312921">
+        <ele>1905.31</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

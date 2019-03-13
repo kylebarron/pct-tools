@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec Q - Cold Spring trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="41.543238" lon="-123.163597">
+        <ele>1940.93</ele>
+      </trkpt>
+      <trkpt lat="41.542454" lon="-123.163064">
+        <ele>1930.14</ele>
+      </trkpt>
+      <trkpt lat="41.541345" lon="-123.160946">
+        <ele>1899.23</ele>
+      </trkpt>
+      <trkpt lat="41.541216" lon="-123.15993">
+        <ele>1885.61</ele>
+      </trkpt>
+      <trkpt lat="41.541055" lon="-123.159957">
+        <ele>1882.53</ele>
+      </trkpt>
+      <trkpt lat="41.540954" lon="-123.159769">
+        <ele>1877.92</ele>
+      </trkpt>
+      <trkpt lat="41.540769" lon="-123.159696">
+        <ele>1872.08</ele>
+      </trkpt>
+      <trkpt lat="41.540526" lon="-123.159208">
+        <ele>1859.45</ele>
+      </trkpt>
+      <trkpt lat="41.540561" lon="-123.159139">
+        <ele>1859.06</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec D - Guffy Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="34.341566" lon="-117.654281">
+        <ele>2494.27</ele>
+      </trkpt>
+      <trkpt lat="34.341678" lon="-117.654177">
+        <ele>2485.61</ele>
+      </trkpt>
+      <trkpt lat="34.341965" lon="-117.654321">
+        <ele>2483.14</ele>
+      </trkpt>
+      <trkpt lat="34.342198" lon="-117.654227">
+        <ele>2481.34</ele>
+      </trkpt>
+      <trkpt lat="34.342396" lon="-117.654031">
+        <ele>2478.63</ele>
+      </trkpt>
+      <trkpt lat="34.342713" lon="-117.653988">
+        <ele>2476.85</ele>
+      </trkpt>
+      <trkpt lat="34.342828" lon="-117.654428">
+        <ele>2471.32</ele>
+      </trkpt>
+      <trkpt lat="34.343083" lon="-117.654903">
+        <ele>2452.94</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

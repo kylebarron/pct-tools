@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Lost Valley Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.343018" lon="-116.63874">
+        <ele>1361.24</ele>
+      </trkpt>
+      <trkpt lat="33.343229" lon="-116.638579">
+        <ele>1360.17</ele>
+      </trkpt>
+      <trkpt lat="33.34387" lon="-116.638531">
+        <ele>1341.18</ele>
+      </trkpt>
+      <trkpt lat="33.344153" lon="-116.63838">
+        <ele>1335.33</ele>
+      </trkpt>
+      <trkpt lat="33.344185" lon="-116.63818">
+        <ele>1335.14</ele>
+      </trkpt>
+      <trkpt lat="33.344038" lon="-116.637516">
+        <ele>1327.5</ele>
+      </trkpt>
+      <trkpt lat="33.344284" lon="-116.636948">
+        <ele>1325.35</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

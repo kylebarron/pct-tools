@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Mike Herrera Road</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.381514" lon="-116.595064">
+        <ele>1540.15</ele>
+      </trkpt>
+      <trkpt lat="33.381703" lon="-116.593973">
+        <ele>1542.29</ele>
+      </trkpt>
+      <trkpt lat="33.381493" lon="-116.593499">
+        <ele>1548.37</ele>
+      </trkpt>
+      <trkpt lat="33.381107" lon="-116.593284">
+        <ele>1549.25</ele>
+      </trkpt>
+      <trkpt lat="33.380539" lon="-116.59337">
+        <ele>1553.29</ele>
+      </trkpt>
+      <trkpt lat="33.380412" lon="-116.59332">
+        <ele>1552.96</ele>
+      </trkpt>
+      <trkpt lat="33.379984" lon="-116.592752">
+        <ele>1556.51</ele>
+      </trkpt>
+      <trkpt lat="33.379595" lon="-116.592425">
+        <ele>1559.56</ele>
+      </trkpt>
+      <trkpt lat="33.379676" lon="-116.592061">
+        <ele>1557.44</ele>
+      </trkpt>
+      <trkpt lat="33.380271" lon="-116.59165">
+        <ele>1551.72</ele>
+      </trkpt>
+      <trkpt lat="33.380491" lon="-116.59138">
+        <ele>1548.98</ele>
+      </trkpt>
+      <trkpt lat="33.380552" lon="-116.590345">
+        <ele>1546.85</ele>
+      </trkpt>
+      <trkpt lat="33.380819" lon="-116.590298">
+        <ele>1542.84</ele>
+      </trkpt>
+      <trkpt lat="33.381091" lon="-116.590398">
+        <ele>1538.26</ele>
+      </trkpt>
+      <trkpt lat="33.381169" lon="-116.590474">
+        <ele>1537.09</ele>
+      </trkpt>
+      <trkpt lat="33.381189" lon="-116.590786">
+        <ele>1536.85</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

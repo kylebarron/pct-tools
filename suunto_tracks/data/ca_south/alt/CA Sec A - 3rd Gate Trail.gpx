@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec A - 3rd Gate Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.16701" lon="-116.543437">
+        <ele>1082.5</ele>
+      </trkpt>
+      <trkpt lat="33.167241" lon="-116.543222">
+        <ele>1081.28</ele>
+      </trkpt>
+      <trkpt lat="33.167557" lon="-116.543096">
+        <ele>1075.75</ele>
+      </trkpt>
+      <trkpt lat="33.167942" lon="-116.542688">
+        <ele>1070.58</ele>
+      </trkpt>
+      <trkpt lat="33.167882" lon="-116.542099">
+        <ele>1061.28</ele>
+      </trkpt>
+      <trkpt lat="33.168335" lon="-116.541153">
+        <ele>1056.18</ele>
+      </trkpt>
+      <trkpt lat="33.168476" lon="-116.539997">
+        <ele>1041.67</ele>
+      </trkpt>
+      <trkpt lat="33.168892" lon="-116.539458">
+        <ele>1035.47</ele>
+      </trkpt>
+      <trkpt lat="33.169231" lon="-116.538603">
+        <ele>1025.23</ele>
+      </trkpt>
+      <trkpt lat="33.169463" lon="-116.538299">
+        <ele>1023.41</ele>
+      </trkpt>
+      <trkpt lat="33.169592" lon="-116.537842">
+        <ele>1019.64</ele>
+      </trkpt>
+      <trkpt lat="33.169862" lon="-116.537617">
+        <ele>1017.11</ele>
+      </trkpt>
+      <trkpt lat="33.170309" lon="-116.537463">
+        <ele>1016.36</ele>
+      </trkpt>
+      <trkpt lat="33.170445" lon="-116.537302">
+        <ele>1015.27</ele>
+      </trkpt>
+      <trkpt lat="33.170898" lon="-116.538048">
+        <ele>1021.64</ele>
+      </trkpt>
+      <trkpt lat="33.171437" lon="-116.538239">
+        <ele>1022.43</ele>
+      </trkpt>
+      <trkpt lat="33.17163" lon="-116.538191">
+        <ele>1021.99</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

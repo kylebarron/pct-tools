@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec G - Kennedy Meadow Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="36.023584" lon="-118.134144">
+        <ele>1831.22</ele>
+      </trkpt>
+      <trkpt lat="36.023558" lon="-118.133262">
+        <ele>1834.26</ele>
+      </trkpt>
+      <trkpt lat="36.023252" lon="-118.132368">
+        <ele>1838.31</ele>
+      </trkpt>
+      <trkpt lat="36.022856" lon="-118.13193">
+        <ele>1840.48</ele>
+      </trkpt>
+      <trkpt lat="36.021885" lon="-118.13113">
+        <ele>1844.52</ele>
+      </trkpt>
+      <trkpt lat="36.021346" lon="-118.130429">
+        <ele>1846.3</ele>
+      </trkpt>
+      <trkpt lat="36.020477" lon="-118.128541">
+        <ele>1851.93</ele>
+      </trkpt>
+      <trkpt lat="36.018411" lon="-118.125429">
+        <ele>1863.29</ele>
+      </trkpt>
+      <trkpt lat="36.018311" lon="-118.124897">
+        <ele>1867.16</ele>
+      </trkpt>
+      <trkpt lat="36.018506" lon="-118.123757">
+        <ele>1867.76</ele>
+      </trkpt>
+      <trkpt lat="36.018959" lon="-118.123614">
+        <ele>1873.63</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec C - Mojave Dam Alternate</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="34.345002" lon="-117.231139">
+        <ele>958.5</ele>
+      </trkpt>
+      <trkpt lat="34.345398" lon="-117.231659">
+        <ele>966.26</ele>
+      </trkpt>
+      <trkpt lat="34.344479" lon="-117.232948">
+        <ele>965.09</ele>
+      </trkpt>
+      <trkpt lat="34.343578" lon="-117.234718">
+        <ele>966.82</ele>
+      </trkpt>
+      <trkpt lat="34.343212" lon="-117.235725">
+        <ele>967.3</ele>
+      </trkpt>
+      <trkpt lat="34.343025" lon="-117.236519">
+        <ele>966.66</ele>
+      </trkpt>
+      <trkpt lat="34.342865" lon="-117.238243">
+        <ele>967.39</ele>
+      </trkpt>
+      <trkpt lat="34.343384" lon="-117.238815">
+        <ele>968.78</ele>
+      </trkpt>
+      <trkpt lat="34.343655" lon="-117.239388">
+        <ele>970.5</ele>
+      </trkpt>
+      <trkpt lat="34.344086" lon="-117.239876">
+        <ele>969.16</ele>
+      </trkpt>
+      <trkpt lat="34.344116" lon="-117.2407">
+        <ele>968.38</ele>
+      </trkpt>
+      <trkpt lat="34.34399" lon="-117.241135">
+        <ele>966.95</ele>
+      </trkpt>
+      <trkpt lat="34.343681" lon="-117.2416">
+        <ele>968.38</ele>
+      </trkpt>
+      <trkpt lat="34.343609" lon="-117.242119">
+        <ele>965.74</ele>
+      </trkpt>
+      <trkpt lat="34.343639" lon="-117.24247">
+        <ele>965.55</ele>
+      </trkpt>
+      <trkpt lat="34.344707" lon="-117.246056">
+        <ele>968.08</ele>
+      </trkpt>
+      <trkpt lat="34.346218" lon="-117.248512">
+        <ele>956.06</ele>
+      </trkpt>
+      <trkpt lat="34.346214" lon="-117.248734">
+        <ele>956.73</ele>
+      </trkpt>
+      <trkpt lat="34.345406" lon="-117.249916">
+        <ele>971.95</ele>
+      </trkpt>
+      <trkpt lat="34.343113" lon="-117.253609">
+        <ele>937.85</ele>
+      </trkpt>
+      <trkpt lat="34.342712" lon="-117.254135">
+        <ele>934.03</ele>
+      </trkpt>
+      <trkpt lat="34.338902" lon="-117.258492">
+        <ele>923.3</ele>
+      </trkpt>
+      <trkpt lat="34.338486" lon="-117.258911">
+        <ele>925.76</ele>
+      </trkpt>
+      <trkpt lat="34.338005" lon="-117.25914">
+        <ele>927.76</ele>
+      </trkpt>
+      <trkpt lat="34.336823" lon="-117.25914">
+        <ele>934.69</ele>
+      </trkpt>
+      <trkpt lat="34.336945" lon="-117.255424">
+        <ele>931.41</ele>
+      </trkpt>
+      <trkpt lat="34.336983" lon="-117.247368">
+        <ele>942.58</ele>
+      </trkpt>
+      <trkpt lat="34.336895" lon="-117.246437">
+        <ele>949.15</ele>
+      </trkpt>
+      <trkpt lat="34.336717" lon="-117.245823">
+        <ele>953.13</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

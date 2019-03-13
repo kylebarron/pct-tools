@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec H - Horseshoe Lake Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.586358" lon="-119.05159">
+        <ele>2720.45</ele>
+      </trkpt>
+      <trkpt lat="37.586599" lon="-119.051648">
+        <ele>2722.25</ele>
+      </trkpt>
+      <trkpt lat="37.588048" lon="-119.053023">
+        <ele>2729.13</ele>
+      </trkpt>
+      <trkpt lat="37.589228" lon="-119.053345">
+        <ele>2714.51</ele>
+      </trkpt>
+      <trkpt lat="37.589464" lon="-119.053216">
+        <ele>2711.81</ele>
+      </trkpt>
+      <trkpt lat="37.589593" lon="-119.052958">
+        <ele>2712.48</ele>
+      </trkpt>
+      <trkpt lat="37.589636" lon="-119.052229">
+        <ele>2717.93</ele>
+      </trkpt>
+      <trkpt lat="37.589936" lon="-119.051671">
+        <ele>2709.44</ele>
+      </trkpt>
+      <trkpt lat="37.590215" lon="-119.05092">
+        <ele>2708.78</ele>
+      </trkpt>
+      <trkpt lat="37.590859" lon="-119.049804">
+        <ele>2694.51</ele>
+      </trkpt>
+      <trkpt lat="37.591031" lon="-119.049718">
+        <ele>2691.13</ele>
+      </trkpt>
+      <trkpt lat="37.591374" lon="-119.049933">
+        <ele>2682.08</ele>
+      </trkpt>
+      <trkpt lat="37.591653" lon="-119.050705">
+        <ele>2670.29</ele>
+      </trkpt>
+      <trkpt lat="37.591782" lon="-119.050813">
+        <ele>2666.01</ele>
+      </trkpt>
+      <trkpt lat="37.592103" lon="-119.050877">
+        <ele>2663.71</ele>
+      </trkpt>
+      <trkpt lat="37.592318" lon="-119.051156">
+        <ele>2663.3</ele>
+      </trkpt>
+      <trkpt lat="37.592533" lon="-119.051263">
+        <ele>2661.42</ele>
+      </trkpt>
+      <trkpt lat="37.593284" lon="-119.051285">
+        <ele>2658.83</ele>
+      </trkpt>
+      <trkpt lat="37.593412" lon="-119.051499">
+        <ele>2657.66</ele>
+      </trkpt>
+      <trkpt lat="37.593221" lon="-119.052074">
+        <ele>2657.3</ele>
+      </trkpt>
+      <trkpt lat="37.593241" lon="-119.052276">
+        <ele>2659.29</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

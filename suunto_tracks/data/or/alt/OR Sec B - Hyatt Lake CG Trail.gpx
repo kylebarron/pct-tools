@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec B - Hyatt Lake CG Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="42.164428" lon="-122.465103">
+        <ele>1556.06</ele>
+      </trkpt>
+      <trkpt lat="42.164607" lon="-122.465101">
+        <ele>1556.87</ele>
+      </trkpt>
+      <trkpt lat="42.164754" lon="-122.464936">
+        <ele>1553.31</ele>
+      </trkpt>
+      <trkpt lat="42.165484" lon="-122.463999">
+        <ele>1548.02</ele>
+      </trkpt>
+      <trkpt lat="42.165721" lon="-122.463568">
+        <ele>1547.24</ele>
+      </trkpt>
+      <trkpt lat="42.165914" lon="-122.463741">
+        <ele>1546.32</ele>
+      </trkpt>
+      <trkpt lat="42.166708" lon="-122.463849">
+        <ele>1543.48</ele>
+      </trkpt>
+      <trkpt lat="42.167197" lon="-122.463778">
+        <ele>1541.8</ele>
+      </trkpt>
+      <trkpt lat="42.167649" lon="-122.463497">
+        <ele>1539.69</ele>
+      </trkpt>
+      <trkpt lat="42.168558" lon="-122.463537">
+        <ele>1537.98</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

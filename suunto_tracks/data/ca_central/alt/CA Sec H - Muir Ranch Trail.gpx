@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec H - Muir Ranch Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.237146" lon="-118.877746">
+        <ele>2377.56</ele>
+      </trkpt>
+      <trkpt lat="37.237078" lon="-118.878701">
+        <ele>2367.15</ele>
+      </trkpt>
+      <trkpt lat="37.236765" lon="-118.879385">
+        <ele>2366.07</ele>
+      </trkpt>
+      <trkpt lat="37.236774" lon="-118.879559">
+        <ele>2367.06</ele>
+      </trkpt>
+      <trkpt lat="37.236963" lon="-118.879827">
+        <ele>2368.63</ele>
+      </trkpt>
+      <trkpt lat="37.236936" lon="-118.880009">
+        <ele>2366.55</ele>
+      </trkpt>
+      <trkpt lat="37.236786" lon="-118.880097">
+        <ele>2363.95</ele>
+      </trkpt>
+      <trkpt lat="37.236293" lon="-118.879916">
+        <ele>2355.98</ele>
+      </trkpt>
+      <trkpt lat="37.236176" lon="-118.879998">
+        <ele>2353.97</ele>
+      </trkpt>
+      <trkpt lat="37.236001" lon="-118.880483">
+        <ele>2351.51</ele>
+      </trkpt>
+      <trkpt lat="37.236027" lon="-118.881008">
+        <ele>2343.48</ele>
+      </trkpt>
+      <trkpt lat="37.235633" lon="-118.881001">
+        <ele>2342.08</ele>
+      </trkpt>
+      <trkpt lat="37.235496" lon="-118.880734">
+        <ele>2342.1</ele>
+      </trkpt>
+      <trkpt lat="37.235231" lon="-118.880705">
+        <ele>2341.87</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

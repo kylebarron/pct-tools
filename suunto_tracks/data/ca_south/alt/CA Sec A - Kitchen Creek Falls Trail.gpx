@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec A - Kitchen Creek Falls Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="32.740895" lon="-116.465356">
+        <ele>1159.58</ele>
+      </trkpt>
+      <trkpt lat="32.741031" lon="-116.465339">
+        <ele>1160.35</ele>
+      </trkpt>
+      <trkpt lat="32.74147" lon="-116.465559">
+        <ele>1151.06</ele>
+      </trkpt>
+      <trkpt lat="32.742233" lon="-116.465522">
+        <ele>1138.01</ele>
+      </trkpt>
+      <trkpt lat="32.742528" lon="-116.465383">
+        <ele>1128.83</ele>
+      </trkpt>
+      <trkpt lat="32.742507" lon="-116.465247">
+        <ele>1128.38</ele>
+      </trkpt>
+      <trkpt lat="32.742648" lon="-116.465023">
+        <ele>1115.56</ele>
+      </trkpt>
+      <trkpt lat="32.7426" lon="-116.4648">
+        <ele>1113.93</ele>
+      </trkpt>
+      <trkpt lat="32.742818" lon="-116.464628">
+        <ele>1111.54</ele>
+      </trkpt>
+      <trkpt lat="32.742899" lon="-116.464424">
+        <ele>1114.77</ele>
+      </trkpt>
+      <trkpt lat="32.743039" lon="-116.464436">
+        <ele>1109.46</ele>
+      </trkpt>
+      <trkpt lat="32.742975" lon="-116.46453">
+        <ele>1108.25</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

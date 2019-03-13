@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Mt San Jacinto Spur Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.812076" lon="-116.679038">
+        <ele>3224.66</ele>
+      </trkpt>
+      <trkpt lat="33.812281" lon="-116.678865">
+        <ele>3226.22</ele>
+      </trkpt>
+      <trkpt lat="33.812363" lon="-116.678604">
+        <ele>3225.31</ele>
+      </trkpt>
+      <trkpt lat="33.812594" lon="-116.678867">
+        <ele>3232.06</ele>
+      </trkpt>
+      <trkpt lat="33.813006" lon="-116.678814">
+        <ele>3240.63</ele>
+      </trkpt>
+      <trkpt lat="33.813162" lon="-116.678995">
+        <ele>3241.61</ele>
+      </trkpt>
+      <trkpt lat="33.813228" lon="-116.6788">
+        <ele>3243.39</ele>
+      </trkpt>
+      <trkpt lat="33.813764" lon="-116.678209">
+        <ele>3250.22</ele>
+      </trkpt>
+      <trkpt lat="33.813885" lon="-116.678406">
+        <ele>3254.69</ele>
+      </trkpt>
+      <trkpt lat="33.813923" lon="-116.678695">
+        <ele>3259.24</ele>
+      </trkpt>
+      <trkpt lat="33.814302" lon="-116.678427">
+        <ele>3262.35</ele>
+      </trkpt>
+      <trkpt lat="33.814464" lon="-116.678518">
+        <ele>3267.42</ele>
+      </trkpt>
+      <trkpt lat="33.814488" lon="-116.678731">
+        <ele>3271.84</ele>
+      </trkpt>
+      <trkpt lat="33.814591" lon="-116.678739">
+        <ele>3274.15</ele>
+      </trkpt>
+      <trkpt lat="33.814652" lon="-116.678913">
+        <ele>3280.6</ele>
+      </trkpt>
+      <trkpt lat="33.81467" lon="-116.679399">
+        <ele>3296.29</ele>
+      </trkpt>
+      <trkpt lat="33.81476" lon="-116.679466">
+        <ele>3298.31</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

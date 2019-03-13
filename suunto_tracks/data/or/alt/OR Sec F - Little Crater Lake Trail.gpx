@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec F - Little Crater Lake Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="45.147889" lon="-121.753478">
+        <ele>989.2</ele>
+      </trkpt>
+      <trkpt lat="45.147854" lon="-121.753388">
+        <ele>989.08</ele>
+      </trkpt>
+      <trkpt lat="45.148143" lon="-121.752512">
+        <ele>988.55</ele>
+      </trkpt>
+      <trkpt lat="45.148427" lon="-121.752136">
+        <ele>987.82</ele>
+      </trkpt>
+      <trkpt lat="45.148515" lon="-121.751347">
+        <ele>987.37</ele>
+      </trkpt>
+      <trkpt lat="45.148489" lon="-121.751097">
+        <ele>987.35</ele>
+      </trkpt>
+      <trkpt lat="45.148427" lon="-121.751076">
+        <ele>987.36</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

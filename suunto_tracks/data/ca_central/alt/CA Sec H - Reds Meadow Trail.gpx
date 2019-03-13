@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec H - Reds Meadow Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.609982" lon="-119.07545">
+        <ele>2351.91</ele>
+      </trkpt>
+      <trkpt lat="37.610656" lon="-119.075735">
+        <ele>2349.48</ele>
+      </trkpt>
+      <trkpt lat="37.612021" lon="-119.075343">
+        <ele>2354.17</ele>
+      </trkpt>
+      <trkpt lat="37.612942" lon="-119.075566">
+        <ele>2348.97</ele>
+      </trkpt>
+      <trkpt lat="37.613278" lon="-119.075534">
+        <ele>2348.74</ele>
+      </trkpt>
+      <trkpt lat="37.613667" lon="-119.075165">
+        <ele>2352.03</ele>
+      </trkpt>
+      <trkpt lat="37.614116" lon="-119.075171">
+        <ele>2350.55</ele>
+      </trkpt>
+      <trkpt lat="37.614849" lon="-119.074935">
+        <ele>2349.31</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

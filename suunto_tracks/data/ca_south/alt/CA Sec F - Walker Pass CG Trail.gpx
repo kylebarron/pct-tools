@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec F - Walker Pass CG Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="35.663099" lon="-118.036445">
+        <ele>1560.4</ele>
+      </trkpt>
+      <trkpt lat="35.663461" lon="-118.037143">
+        <ele>1550.6</ele>
+      </trkpt>
+      <trkpt lat="35.663692" lon="-118.037417">
+        <ele>1546.81</ele>
+      </trkpt>
+      <trkpt lat="35.66395" lon="-118.037519">
+        <ele>1544.56</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

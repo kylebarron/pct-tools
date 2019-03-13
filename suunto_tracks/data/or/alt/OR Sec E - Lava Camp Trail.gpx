@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec E - Lava Camp Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.257543" lon="-121.790034">
+        <ele>1611.48</ele>
+      </trkpt>
+      <trkpt lat="44.257687" lon="-121.789751">
+        <ele>1611.55</ele>
+      </trkpt>
+      <trkpt lat="44.257677" lon="-121.789356">
+        <ele>1612.65</ele>
+      </trkpt>
+      <trkpt lat="44.257853" lon="-121.789047">
+        <ele>1612.75</ele>
+      </trkpt>
+      <trkpt lat="44.258023" lon="-121.789063">
+        <ele>1613.39</ele>
+      </trkpt>
+      <trkpt lat="44.258394" lon="-121.788619">
+        <ele>1612.33</ele>
+      </trkpt>
+      <trkpt lat="44.258691" lon="-121.788597">
+        <ele>1611.24</ele>
+      </trkpt>
+      <trkpt lat="44.258817" lon="-121.788267">
+        <ele>1611.04</ele>
+      </trkpt>
+      <trkpt lat="44.258959" lon="-121.788135">
+        <ele>1610.64</ele>
+      </trkpt>
+      <trkpt lat="44.259409" lon="-121.78812">
+        <ele>1612.71</ele>
+      </trkpt>
+      <trkpt lat="44.259542" lon="-121.78765">
+        <ele>1610.66</ele>
+      </trkpt>
+      <trkpt lat="44.259834" lon="-121.787311">
+        <ele>1609.12</ele>
+      </trkpt>
+      <trkpt lat="44.260894" lon="-121.78798">
+        <ele>1604.04</ele>
+      </trkpt>
+      <trkpt lat="44.261222" lon="-121.787852">
+        <ele>1605.54</ele>
+      </trkpt>
+      <trkpt lat="44.261326" lon="-121.787504">
+        <ele>1607.6</ele>
+      </trkpt>
+      <trkpt lat="44.261165" lon="-121.786886">
+        <ele>1610.93</ele>
+      </trkpt>
+      <trkpt lat="44.261273" lon="-121.786432">
+        <ele>1608.58</ele>
+      </trkpt>
+      <trkpt lat="44.261131" lon="-121.785895">
+        <ele>1610.46</ele>
+      </trkpt>
+      <trkpt lat="44.261157" lon="-121.785751">
+        <ele>1610.28</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

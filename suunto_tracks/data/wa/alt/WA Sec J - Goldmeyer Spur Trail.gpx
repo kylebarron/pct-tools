@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>WA Sec J - Goldmeyer Spur Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="47.484222" lon="-121.391544">
+        <ele>536.16</ele>
+      </trkpt>
+      <trkpt lat="47.484199" lon="-121.390625">
+        <ele>539.74</ele>
+      </trkpt>
+      <trkpt lat="47.484227" lon="-121.390405">
+        <ele>541.52</ele>
+      </trkpt>
+      <trkpt lat="47.484386" lon="-121.39021">
+        <ele>544.17</ele>
+      </trkpt>
+      <trkpt lat="47.484381" lon="-121.390063">
+        <ele>545.77</ele>
+      </trkpt>
+      <trkpt lat="47.484129" lon="-121.390138">
+        <ele>544.35</ele>
+      </trkpt>
+      <trkpt lat="47.483955" lon="-121.389949">
+        <ele>546.21</ele>
+      </trkpt>
+      <trkpt lat="47.483914" lon="-121.389667">
+        <ele>549.73</ele>
+      </trkpt>
+      <trkpt lat="47.483973" lon="-121.389543">
+        <ele>551.4</ele>
+      </trkpt>
+      <trkpt lat="47.483596" lon="-121.388433">
+        <ele>571.26</ele>
+      </trkpt>
+      <trkpt lat="47.483424" lon="-121.387596">
+        <ele>587.56</ele>
+      </trkpt>
+      <trkpt lat="47.482936" lon="-121.387089">
+        <ele>592.91</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

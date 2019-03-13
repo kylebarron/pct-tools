@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Spur118 Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.326786" lon="-116.635864">
+        <ele>1242.38</ele>
+      </trkpt>
+      <trkpt lat="33.326286" lon="-116.63591">
+        <ele>1231.76</ele>
+      </trkpt>
+      <trkpt lat="33.326149" lon="-116.636024">
+        <ele>1228.04</ele>
+      </trkpt>
+      <trkpt lat="33.326084" lon="-116.635933">
+        <ele>1227.66</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

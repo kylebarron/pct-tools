@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec C - ZiggyBear Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.938968" lon="-116.699178">
+        <ele>500.65</ele>
+      </trkpt>
+      <trkpt lat="33.938548" lon="-116.698789">
+        <ele>497.55</ele>
+      </trkpt>
+      <trkpt lat="33.938125" lon="-116.697695">
+        <ele>492.16</ele>
+      </trkpt>
+      <trkpt lat="33.937421" lon="-116.697853">
+        <ele>487.46</ele>
+      </trkpt>
+      <trkpt lat="33.937426" lon="-116.698443">
+        <ele>487.45</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

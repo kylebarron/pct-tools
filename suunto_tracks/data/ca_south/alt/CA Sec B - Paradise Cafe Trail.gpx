@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec B - Paradise Cafe Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="33.562707" lon="-116.577272">
+        <ele>1501.73</ele>
+      </trkpt>
+      <trkpt lat="33.562843" lon="-116.578922">
+        <ele>1497.66</ele>
+      </trkpt>
+      <trkpt lat="33.563739" lon="-116.580589">
+        <ele>1490.47</ele>
+      </trkpt>
+      <trkpt lat="33.563873" lon="-116.580996">
+        <ele>1489.17</ele>
+      </trkpt>
+      <trkpt lat="33.564142" lon="-116.581298">
+        <ele>1486.78</ele>
+      </trkpt>
+      <trkpt lat="33.564288" lon="-116.581736">
+        <ele>1485.6</ele>
+      </trkpt>
+      <trkpt lat="33.565437" lon="-116.583832">
+        <ele>1478.08</ele>
+      </trkpt>
+      <trkpt lat="33.565693" lon="-116.584684">
+        <ele>1475.54</ele>
+      </trkpt>
+      <trkpt lat="33.566002" lon="-116.585233">
+        <ele>1474.21</ele>
+      </trkpt>
+      <trkpt lat="33.566183" lon="-116.585752">
+        <ele>1473.04</ele>
+      </trkpt>
+      <trkpt lat="33.566453" lon="-116.586721">
+        <ele>1471.11</ele>
+      </trkpt>
+      <trkpt lat="33.566601" lon="-116.58796">
+        <ele>1468.38</ele>
+      </trkpt>
+      <trkpt lat="33.566736" lon="-116.588328">
+        <ele>1467.56</ele>
+      </trkpt>
+      <trkpt lat="33.567301" lon="-116.589557">
+        <ele>1464.61</ele>
+      </trkpt>
+      <trkpt lat="33.567975" lon="-116.590726">
+        <ele>1462.23</ele>
+      </trkpt>
+      <trkpt lat="33.568586" lon="-116.591296">
+        <ele>1461.42</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

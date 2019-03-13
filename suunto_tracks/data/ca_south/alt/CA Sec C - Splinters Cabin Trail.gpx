@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec C - Splinters Cabin Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="34.274139" lon="-117.128082">
+        <ele>1407.38</ele>
+      </trkpt>
+      <trkpt lat="34.273872" lon="-117.128487">
+        <ele>1406.37</ele>
+      </trkpt>
+      <trkpt lat="34.273651" lon="-117.128555">
+        <ele>1402.07</ele>
+      </trkpt>
+      <trkpt lat="34.273506" lon="-117.128418">
+        <ele>1397.32</ele>
+      </trkpt>
+      <trkpt lat="34.273319" lon="-117.128456">
+        <ele>1398.54</ele>
+      </trkpt>
+      <trkpt lat="34.272949" lon="-117.128822">
+        <ele>1405.64</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

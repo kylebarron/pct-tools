@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec F - Robin Bird Spring Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="35.386793" lon="-118.300388">
+        <ele>1929.12</ele>
+      </trkpt>
+      <trkpt lat="35.386951" lon="-118.300726">
+        <ele>1926.4</ele>
+      </trkpt>
+      <trkpt lat="35.386927" lon="-118.30126">
+        <ele>1918.56</ele>
+      </trkpt>
+      <trkpt lat="35.387011" lon="-118.301518">
+        <ele>1919.57</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

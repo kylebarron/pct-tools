@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>CA Sec H - Tuolumne CG Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="37.868738" lon="-119.333659">
+        <ele>2642.5</ele>
+      </trkpt>
+      <trkpt lat="37.868765" lon="-119.334443">
+        <ele>2643.38</ele>
+      </trkpt>
+      <trkpt lat="37.868663" lon="-119.334995">
+        <ele>2644.51</ele>
+      </trkpt>
+      <trkpt lat="37.868708" lon="-119.335348">
+        <ele>2644.7</ele>
+      </trkpt>
+      <trkpt lat="37.868884" lon="-119.335812">
+        <ele>2644.05</ele>
+      </trkpt>
+      <trkpt lat="37.868972" lon="-119.336339">
+        <ele>2644.01</ele>
+      </trkpt>
+      <trkpt lat="37.869415" lon="-119.337113">
+        <ele>2640.21</ele>
+      </trkpt>
+      <trkpt lat="37.869842" lon="-119.338304">
+        <ele>2636.61</ele>
+      </trkpt>
+      <trkpt lat="37.870071" lon="-119.338741">
+        <ele>2637.68</ele>
+      </trkpt>
+      <trkpt lat="37.870118" lon="-119.339819">
+        <ele>2636.27</ele>
+      </trkpt>
+      <trkpt lat="37.870041" lon="-119.34056">
+        <ele>2634.41</ele>
+      </trkpt>
+      <trkpt lat="37.870165" lon="-119.34105">
+        <ele>2634.22</ele>
+      </trkpt>
+      <trkpt lat="37.870125" lon="-119.341278">
+        <ele>2635.77</ele>
+      </trkpt>
+      <trkpt lat="37.870311" lon="-119.341801">
+        <ele>2634.99</ele>
+      </trkpt>
+      <trkpt lat="37.870463" lon="-119.342687">
+        <ele>2637.54</ele>
+      </trkpt>
+      <trkpt lat="37.870799" lon="-119.343516">
+        <ele>2634.61</ele>
+      </trkpt>
+      <trkpt lat="37.871011" lon="-119.344599">
+        <ele>2633.92</ele>
+      </trkpt>
+      <trkpt lat="37.870961" lon="-119.34495">
+        <ele>2634.83</ele>
+      </trkpt>
+      <trkpt lat="37.871005" lon="-119.345136">
+        <ele>2634.33</ele>
+      </trkpt>
+      <trkpt lat="37.871197" lon="-119.345399">
+        <ele>2631.67</ele>
+      </trkpt>
+      <trkpt lat="37.871232" lon="-119.345805">
+        <ele>2630.71</ele>
+      </trkpt>
+      <trkpt lat="37.871161" lon="-119.346337">
+        <ele>2633.68</ele>
+      </trkpt>
+      <trkpt lat="37.871571" lon="-119.346885">
+        <ele>2628.57</ele>
+      </trkpt>
+      <trkpt lat="37.871709" lon="-119.347591">
+        <ele>2626.15</ele>
+      </trkpt>
+      <trkpt lat="37.87188" lon="-119.347895">
+        <ele>2624.17</ele>
+      </trkpt>
+      <trkpt lat="37.87193" lon="-119.348625">
+        <ele>2624.24</ele>
+      </trkpt>
+      <trkpt lat="37.871832" lon="-119.348754">
+        <ele>2625.21</ele>
+      </trkpt>
+      <trkpt lat="37.871838" lon="-119.348923">
+        <ele>2624.47</ele>
+      </trkpt>
+      <trkpt lat="37.871971" lon="-119.349233">
+        <ele>2623.31</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>

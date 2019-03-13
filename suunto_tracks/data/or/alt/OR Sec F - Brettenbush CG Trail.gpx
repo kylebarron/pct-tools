@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="gpx.py -- https://github.com/tkrajina/gpxpy">
+  <trk>
+    <name>OR Sec F - Brettenbush CG Trail</name>
+    <extensions>
+      <http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+        <http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>DarkMagenta</http://www.garmin.com/xmlschemas/GpxExtensions/v3:DisplayColor>
+      </http://www.garmin.com/xmlschemas/GpxExtensions/v3:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="44.765319" lon="-121.787069">
+        <ele>1680.71</ele>
+      </trkpt>
+      <trkpt lat="44.76586" lon="-121.786936">
+        <ele>1682.47</ele>
+      </trkpt>
+      <trkpt lat="44.766072" lon="-121.786753">
+        <ele>1682.2</ele>
+      </trkpt>
+      <trkpt lat="44.766742" lon="-121.785265">
+        <ele>1687.0</ele>
+      </trkpt>
+      <trkpt lat="44.767338" lon="-121.784591">
+        <ele>1686.12</ele>
+      </trkpt>
+      <trkpt lat="44.767518" lon="-121.784219">
+        <ele>1687.94</ele>
+      </trkpt>
+      <trkpt lat="44.767433" lon="-121.784123">
+        <ele>1687.01</ele>
+      </trkpt>
+      <trkpt lat="44.767308" lon="-121.783624">
+        <ele>1684.52</ele>
+      </trkpt>
+      <trkpt lat="44.766929" lon="-121.783786">
+        <ele>1684.5</ele>
+      </trkpt>
+      <trkpt lat="44.766494" lon="-121.783593">
+        <ele>1683.69</ele>
+      </trkpt>
+    </trkseg>
+  </trk>
+</gpx>
