@@ -34,7 +34,7 @@ def merge_waypoints(data_dir):
         feature['properties']['sym'] = 'WaterSourceAlert'
 
     print('The set of features needed to color are:')
-    set([x['properties']['sym'] for x in merged['features']])
+    print(set([x['properties']['sym'] for x in merged['features']]))
 
     with open('../data/final_waypoints.geojson', 'w') as f:
         json.dump(merged, f)
