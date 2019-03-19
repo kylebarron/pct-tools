@@ -21,8 +21,17 @@ def merge_waypoints(data_dir):
         merged['features'].extend(d['features'])
 
     for feature in merged['features']:
-        feature['properties']['sym'] = re.sub(
-            r'[^\w]', '', feature['properties']['sym'])
+        sym = feature['properties']['sym']
+        sym_short = re.sub(r'[^\w]', '', sym)
+        feature['properties']['sym'] = sym_short
+
+    for feature in merged['features']:
+        desc = feature['properties'].get('desc')
+        if not desc:
+            continue
+        if not re.search(r'WATER ALERT', desc):
+            continue
+        feature['properties']['sym'] = 'WaterSourceAlert'
 
     print('The set of features needed to color are:')
     set([x['properties']['sym'] for x in merged['features']])
