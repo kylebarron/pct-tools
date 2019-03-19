@@ -2,42 +2,54 @@ import re
 import json
 from pathlib import Path
 
-data_dir = Path('../data/geojson')
-paths = [x for x in data_dir.iterdir() if x.stem.endswith('waypoints')]
-paths = sorted(paths)
 
-merged = {'type': 'FeatureCollection', 'features': []}
-for path in paths:
-    with path.open() as f:
-        d = json.load(f)
+def main():
+    data_dir = Path('../data/geojson')
+    merge_waypoints(data_dir)
+    merge_tracks(data_dir)
 
-    merged['features'].extend(d['features'])
 
-for feature in merged['features']:
-    feature['properties']['sym'] = re.sub(
-        r'[^\w]', '', feature['properties']['sym'])
+def merge_waypoints(data_dir):
+    paths = [x for x in data_dir.iterdir() if x.stem.endswith('waypoints')]
+    paths = sorted(paths)
 
-print('The set of features needed to color are:')
-set([x['properties']['sym'] for x in merged['features']])
+    merged = {'type': 'FeatureCollection', 'features': []}
+    for path in paths:
+        with path.open() as f:
+            d = json.load(f)
 
-with open('../data/final_waypoints.geojson', 'w') as f:
-    json.dump(merged, f)
+        merged['features'].extend(d['features'])
 
-data_dir = Path('../data/geojson')
-paths = [x for x in data_dir.iterdir() if x.stem.endswith('tracks')]
-paths = sorted(paths)
+    for feature in merged['features']:
+        feature['properties']['sym'] = re.sub(
+            r'[^\w]', '', feature['properties']['sym'])
 
-merged = {'type': 'FeatureCollection', 'features': []}
-for path in paths:
-    with path.open() as f:
-        d = json.load(f)
+    print('The set of features needed to color are:')
+    set([x['properties']['sym'] for x in merged['features']])
 
-    merged['features'].extend(d['features'])
+    with open('../data/final_waypoints.geojson', 'w') as f:
+        json.dump(merged, f)
 
-for feature in merged['features']:
-    main_trail = re.search(
-        r'^(CA|OR|WA) Sec [A-Z]$', feature['properties']['name'])
-    feature['properties']['main_trail'] = bool(main_trail)
 
-with open('../data/final_tracks.geojson', 'w') as f:
-    json.dump(merged, f)
+def merge_tracks(data_dir):
+    paths = [x for x in data_dir.iterdir() if x.stem.endswith('tracks')]
+    paths = sorted(paths)
+
+    merged = {'type': 'FeatureCollection', 'features': []}
+    for path in paths:
+        with path.open() as f:
+            d = json.load(f)
+
+        merged['features'].extend(d['features'])
+
+    for feature in merged['features']:
+        main_trail = re.search(
+            r'^(CA|OR|WA) Sec [A-Z]$', feature['properties']['name'])
+        feature['properties']['main_trail'] = bool(main_trail)
+
+    with open('../data/final_tracks.geojson', 'w') as f:
+        json.dump(merged, f)
+
+
+if __name__ == '__main__':
+    main()
