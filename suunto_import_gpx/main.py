@@ -47,8 +47,12 @@ from time import sleep
 @click.option(
     '--tags', type=str, help='Tags for routes. Input is used for all uploads.')
 def import_routes(gpx_paths, name, sync, public, desc, website, tags):
+    print('starting Chrome')
     driver = webdriver.Chrome()
+    print('started Chrome')
+    print('signing in')
     sign_in(driver)
+    print('signed in')
 
     gpx_paths = [Path(gpx_path) for gpx_path in gpx_paths]
     if name is None or len(gpx_paths) > 1:
