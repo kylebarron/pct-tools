@@ -68,6 +68,7 @@ def import_routes(gpx_paths, name, sync, public, desc, website, tags):
     names = [re.sub(r'[^a-zA-Z0-9]', ' ', name) for name in names]
 
     for gpx_path, route_name in zip(gpx_paths, names):
+        print(f'importing: {gpx_path} with name: {route_name}')
         import_route(
             driver,
             gpx_path=gpx_path,
@@ -77,16 +78,12 @@ def import_routes(gpx_paths, name, sync, public, desc, website, tags):
             description=desc,
             website=website,
             tags=tags)
+        print(f'successfully imported: {gpx_path} with name: {route_name}')
 
 
 def sign_in(driver):
     url = 'https://www.movescount.com/auth?redirect_uri=%2fmap'
     driver.get(url)
-
-    # Sign in
-    # sign_in_button = driver.find_element_by_css_selector(
-    #     '#nav-top .button--cancel')
-    # sign_in_button.click()
 
     # Get credentials
     with Path('~/.credentials/movescount.txt').expanduser().open() as f:
