@@ -13,17 +13,6 @@ from selenium.webdriver.common.action_chains import ActionChains
 from time import sleep
 
 
-class WebDriver:
-    def __init__(self, driver):
-        self.driver = driver
-
-    def __enter__(self):
-        return self.driver
-
-    def __exit__(self, exc_type, exc_val, exc_tb):
-        self.driver.quit()
-
-
 @click.command()
 @click.argument(
     'gpx_paths',
@@ -58,28 +47,27 @@ class WebDriver:
 @click.option(
     '--tags', type=str, help='Tags for routes. Input is used for all uploads.')
 def import_routes(gpx_paths, name, sync, public, desc, website, tags):
-    with WebDriver(webdriver.Chrome()) as driver:
-        driver = webdriver.Chrome()
-        sign_in(driver)
+    driver = webdriver.Chrome()
+    sign_in(driver)
 
-        gpx_paths = [Path(gpx_path) for gpx_path in gpx_paths]
-        if name is None or len(gpx_paths) > 1:
-            names = [p.stem for p in gpx_paths]
-        else:
-            names = [name]
+    gpx_paths = [Path(gpx_path) for gpx_path in gpx_paths]
+    if name is None or len(gpx_paths) > 1:
+        names = [p.stem for p in gpx_paths]
+    else:
+        names = [name]
 
-        names = [re.sub(r'[^a-zA-Z0-9]', ' ', name) for name in names]
+    names = [re.sub(r'[^a-zA-Z0-9]', ' ', name) for name in names]
 
-        for gpx_path, route_name in zip(gpx_paths, names):
-            import_route(
-                driver,
-                gpx_path=gpx_path,
-                route_name=route_name,
-                use_with_watch=sync,
-                public=public,
-                description=desc,
-                website=website,
-                tags=tags)
+    for gpx_path, route_name in zip(gpx_paths, names):
+        import_route(
+            driver,
+            gpx_path=gpx_path,
+            route_name=route_name,
+            use_with_watch=sync,
+            public=public,
+            description=desc,
+            website=website,
+            tags=tags)
 
 
 def sign_in(driver):
