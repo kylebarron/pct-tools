@@ -80,13 +80,13 @@ def import_routes(gpx_paths, name, sync, public, desc, website, tags):
 
 
 def sign_in(driver):
-    url = 'http://www.movescount.com/map'
+    url = 'https://www.movescount.com/auth?redirect_uri=%2fmap'
     driver.get(url)
 
     # Sign in
-    sign_in_button = driver.find_element_by_css_selector(
-        '#nav-top .button--cancel')
-    sign_in_button.click()
+    # sign_in_button = driver.find_element_by_css_selector(
+    #     '#nav-top .button--cancel')
+    # sign_in_button.click()
 
     # Get credentials
     with Path('~/.credentials/movescount.txt').expanduser().open() as f:
