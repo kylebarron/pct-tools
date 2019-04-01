@@ -81,6 +81,7 @@ def import_routes(gpx_paths, name, sync, public, desc, website, tags):
             tags=tags)
         print(f'successfully imported: {gpx_path} with name: {route_name}')
 
+    driver.close()
 
 def sign_in(driver):
     url = 'https://www.movescount.com/auth?redirect_uri=%2fmap'
